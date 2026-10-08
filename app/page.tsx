@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import { ArrowUpRight, Bookmark, Check, ChevronRight, Clock3, CookingPot, Leaf, Lightbulb, Moon, Search, SlidersHorizontal, Sprout, Sun, Users, X } from 'lucide-react';
+import { ArrowUpRight, Bookmark, ChevronRight, Clock3, CookingPot, Leaf, Lightbulb, Moon, Search, SlidersHorizontal, Sprout, Sun, Users, X } from 'lucide-react';
 import { categories, recipes, type Category, type Recipe } from '@/lib/recipes';
 
 const icons = { snacks: Sprout, desayunos: Sun, comidas: CookingPot, cenas: Moon };
@@ -13,7 +13,6 @@ export default function Home() {
   const [savedOnly, setSavedOnly] = useState(false);
   const [saved, setSaved] = useState<string[]>([]);
   const [selected, setSelected] = useState<Recipe | null>(null);
-  const [checked, setChecked] = useState<number[]>([]);
   const dialog = useRef<HTMLDialogElement>(null);
   const search = useRef<HTMLInputElement>(null);
 
@@ -35,7 +34,7 @@ export default function Home() {
     setSaved(updated);
     try { localStorage.setItem('savia-saved', JSON.stringify(updated)); } catch { /* Saves remain available for this session. */ }
   }
-  function openRecipe(recipe: Recipe) { setChecked([]); setSelected(recipe); }
+  function openRecipe(recipe: Recipe) { setSelected(recipe); }
   const visible = recipes.filter(recipe => (filter === 'all' || recipe.category === filter) && (!savedOnly || saved.includes(recipe.id)) && normalize([recipe.name, recipe.description, ...recipe.ingredients, ...recipe.tags].join(' ')).includes(normalize(query)));
 
   return (
@@ -87,7 +86,7 @@ export default function Home() {
         {selected && <div className={`dialog-content ${selected.category}`}>
           <div className="dialog-toolbar"><span><Sprout size={18} /> EL RECETARIO SAVIA</span><button className="close-button" aria-label="Cerrar receta" onClick={() => setSelected(null)}><X size={21} /></button></div>
           <div className="dialog-heading"><span className="recipe-label">{categories.find(category => category.id === selected.category)?.name}</span><h2>{selected.name}</h2><p>{selected.description}</p><div className="dialog-meta"><div className="recipe-meta"><span><Clock3 size={16} />{selected.minutes} min</span><span><Users size={16} />{selected.servings} {selected.servings === 1 ? 'porción' : 'porciones'}</span></div><button className="dialog-save" aria-pressed={saved.includes(selected.id)} onClick={() => toggleSaved(selected.id)}><Bookmark size={16} fill={saved.includes(selected.id) ? 'currentColor' : 'none'} />{saved.includes(selected.id) ? 'Guardada' : 'Guardar receta'}</button></div></div>
-          <div className="recipe-details"><section className="ingredients"><div className="detail-title"><h3>Ingredientes</h3><span>{selected.ingredients.length}</span></div><p className="check-hint">Marca lo que ya tienes a mano.</p><ul>{selected.ingredients.map((ingredient, index) => <li key={ingredient}><label className={checked.includes(index) ? 'ingredient-checked' : ''}><input type="checkbox" checked={checked.includes(index)} onChange={() => setChecked(checked.includes(index) ? checked.filter(item => item !== index) : [...checked, index])} /><span className="custom-check">{checked.includes(index) && <Check size={12} />}</span><span>{ingredient}</span></label></li>)}</ul></section><section className="preparation"><h3>Manos a la cocina</h3><ol>{selected.steps.map((step, index) => <li key={step.title}><span className="step-number">{String(index + 1).padStart(2, '0')}</span><div><h4>{step.title}</h4><p>{step.text}</p></div></li>)}</ol><aside className="cooking-tip"><Lightbulb size={20} /><div><h4>Un consejo de Savia</h4><p>{selected.tip}</p></div></aside></section></div>
+          <div className="recipe-details"><section className="ingredients"><div className="detail-title"><h3>Ingredientes</h3><span>{selected.ingredients.length}</span></div><ul>{selected.ingredients.map(ingredient => <li key={ingredient}>{ingredient}</li>)}</ul></section><section className="preparation"><h3>Manos a la cocina</h3><ol>{selected.steps.map((step, index) => <li key={step.title}><span className="step-number">{String(index + 1).padStart(2, '0')}</span><div><h4>{step.title}</h4><p>{step.text}</p></div></li>)}</ol><aside className="cooking-tip"><Lightbulb size={20} /><div><h4>Un consejo de Savia</h4><p>{selected.tip}</p></div></aside></section></div>
           <div className="dialog-bottom"><span>Disfruta el proceso y cada bocado.</span><button onClick={() => setSelected(null)}>Volver al recetario <ChevronRight size={16} /></button></div>
         </div>}
       </dialog>

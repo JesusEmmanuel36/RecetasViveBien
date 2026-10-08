@@ -1,0 +1,328 @@
+{
+  "tool": "built-in image_gen",
+  "newImages": [
+    {
+      "id": "huevos-mexicana",
+      "name": "Huevos a la mexicana con nopal",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Mexican scrambled eggs with visible diced tomato, onion and green cactus paddle pieces, two warm small corn tortillas beside the eggs on an ivory plate.",
+      "original": "output/imagegen/huevos-mexicana.png",
+      "asset": "public/images/recipes/huevos-mexicana.webp"
+    },
+    {
+      "id": "chilaquiles-verdes",
+      "name": "Chilaquiles verdes al horno",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Green chilaquiles made with corn tortilla triangles coated in green tomatillo salsa, black beans, a modest sprinkle of crumbled white queso fresco and cilantro, ivory shallow plate, no fried eggs or cream.",
+      "original": "output/imagegen/chilaquiles-verdes.png",
+      "asset": "public/images/recipes/chilaquiles-verdes.webp"
+    },
+    {
+      "id": "hotcakes-platano",
+      "name": "Hotcakes de plátano y avena",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A small stack of three golden banana oat pancakes topped with sliced fresh strawberries and banana, ivory plate, no syrup, no butter.",
+      "original": "output/imagegen/hotcakes-platano.png",
+      "asset": "public/images/recipes/hotcakes-platano.webp"
+    },
+    {
+      "id": "chia-mango",
+      "name": "Pudín de chía con mango",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two clear small glass jars of creamy chia pudding topped with bright diced mango and a light sprinkle of shredded coconut, white tabletop.",
+      "original": "output/imagegen/chia-mango.png",
+      "asset": "public/images/recipes/chia-mango.webp"
+    },
+    {
+      "id": "yogur-frutos-rojos",
+      "name": "Bowl de yogur con frutos rojos",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Ivory bowl of plain Greek yogurt topped with strawberries, blueberries, toasted oat flakes and chopped almonds, no honey.",
+      "original": "output/imagegen/yogur-frutos-rojos.png",
+      "asset": "public/images/recipes/yogur-frutos-rojos.webp"
+    },
+    {
+      "id": "molletes-integrales",
+      "name": "Molletes integrales con pico de gallo",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two halves of whole wheat Mexican bolillo topped with mashed beans, lightly melted white cheese and fresh tomato onion cilantro pico de gallo, ivory plate.",
+      "original": "output/imagegen/molletes-integrales.png",
+      "asset": "public/images/recipes/molletes-integrales.webp"
+    },
+    {
+      "id": "tostada-huevo-aguacate",
+      "name": "Tostada de aguacate con huevo",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: One whole grain toast with mashed avocado, fresh tomato slices and a fully cooked sunny-side egg with firm yolk, ivory plate.",
+      "original": "output/imagegen/tostada-huevo-aguacate.png",
+      "asset": "public/images/recipes/tostada-huevo-aguacate.webp"
+    },
+    {
+      "id": "smoothie-verde",
+      "name": "Smoothie verde de piña y espinaca",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: One tall clear glass of smooth pale green pineapple spinach banana smoothie on white table, small pineapple pieces nearby, no powders or text.",
+      "original": "output/imagegen/smoothie-verde.png",
+      "asset": "public/images/recipes/smoothie-verde.webp"
+    },
+    {
+      "id": "quesadillas-flor",
+      "name": "Quesadillas de flor de calabaza",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two folded corn quesadillas with orange squash blossoms and melted white Oaxaca cheese visible at the edges, ivory plate, no meat.",
+      "original": "output/imagegen/quesadillas-flor.png",
+      "asset": "public/images/recipes/quesadillas-flor.webp"
+    },
+    {
+      "id": "muffins-zanahoria",
+      "name": "Muffins de zanahoria y avena",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Three golden small carrot oat muffins in simple paper liners, one cut open showing moist carrot crumb, chopped walnuts visible, no icing.",
+      "original": "output/imagegen/muffins-zanahoria.png",
+      "asset": "public/images/recipes/muffins-zanahoria.webp"
+    },
+    {
+      "id": "avena-nocturna-cacao",
+      "name": "Avena nocturna con cacao y pera",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A glass jar of chocolate brown overnight oats with diced fresh pear and green pumpkin seeds on top, no syrup.",
+      "original": "output/imagegen/avena-nocturna-cacao.png",
+      "asset": "public/images/recipes/avena-nocturna-cacao.webp"
+    },
+    {
+      "id": "burrito-desayuno",
+      "name": "Burrito integral de huevo y frijoles",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A whole wheat breakfast burrito cut in half showing scrambled eggs, black beans and red pepper, clean ivory plate.",
+      "original": "output/imagegen/burrito-desayuno.png",
+      "asset": "public/images/recipes/burrito-desayuno.webp"
+    },
+    {
+      "id": "edamame-limon",
+      "name": "Edamame con limón y ajonjolí",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A small ivory bowl filled with green edamame pods sprinkled with sesame seeds, lemon wedge alongside.",
+      "original": "output/imagegen/edamame-limon.png",
+      "asset": "public/images/recipes/edamame-limon.webp"
+    },
+    {
+      "id": "palomitas-paprika",
+      "name": "Palomitas caseras con paprika",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: An ivory bowl of fluffy homemade popcorn lightly dusted with red paprika, no butter or caramel.",
+      "original": "output/imagegen/palomitas-paprika.png",
+      "asset": "public/images/recipes/palomitas-paprika.webp"
+    },
+    {
+      "id": "manzana-cacahuate",
+      "name": "Manzana con crema de cacahuate",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Fresh apple wedges with a small measured dollop of natural peanut butter and a light cinnamon sprinkle on an ivory plate.",
+      "original": "output/imagegen/manzana-cacahuate.png",
+      "asset": "public/images/recipes/manzana-cacahuate.webp"
+    },
+    {
+      "id": "pepino-jicama",
+      "name": "Vasitos de pepino y jícama",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two clear small cups filled with fresh green cucumber sticks and white jicama sticks with light chili dust, lime wedge, no sauces.",
+      "original": "output/imagegen/pepino-jicama.png",
+      "asset": "public/images/recipes/pepino-jicama.webp"
+    },
+    {
+      "id": "bolitas-avena-datil",
+      "name": "Bolitas de avena, dátil y cacao",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Eight small cocoa oat date energy balls arranged on an ivory plate, rough oat texture, no chocolate coating.",
+      "original": "output/imagegen/bolitas-avena-datil.png",
+      "asset": "public/images/recipes/bolitas-avena-datil.webp"
+    },
+    {
+      "id": "garbanzos-crujientes",
+      "name": "Garbanzos crujientes al comino",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A small bowl of golden roasted crispy chickpeas dusted with cumin and paprika, dry crunchy texture, no hummus.",
+      "original": "output/imagegen/garbanzos-crujientes.png",
+      "asset": "public/images/recipes/garbanzos-crujientes.webp"
+    },
+    {
+      "id": "yogur-helado-frutos",
+      "name": "Bark de yogur y frutos rojos",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Broken irregular pieces of frozen white yogurt bark embedded with strawberry slices, blueberries and chopped almonds on a pale plate, no chocolate.",
+      "original": "output/imagegen/yogur-helado-frutos.png",
+      "asset": "public/images/recipes/yogur-helado-frutos.webp"
+    },
+    {
+      "id": "tostaditas-cottage",
+      "name": "Tostaditas de cottage y tomate",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Four small whole grain toast triangles topped with white cottage cheese, red tomato slices and basil leaves, ivory plate.",
+      "original": "output/imagegen/tostaditas-cottage.png",
+      "asset": "public/images/recipes/tostaditas-cottage.webp"
+    },
+    {
+      "id": "brochetas-fruta",
+      "name": "Brochetas de fruta con yogur",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Four fruit skewers with strawberries, orange cantaloupe cubes and green grapes beside a small cup of plain yogurt dip, ivory platter.",
+      "original": "output/imagegen/brochetas-fruta.png",
+      "asset": "public/images/recipes/brochetas-fruta.webp"
+    },
+    {
+      "id": "chips-camote",
+      "name": "Chips de camote al romero",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Thin crisp orange sweet potato chips with tiny rosemary flecks in an ivory bowl, no dip or potato chips.",
+      "original": "output/imagegen/chips-camote.png",
+      "asset": "public/images/recipes/chips-camote.webp"
+    },
+    {
+      "id": "rollitos-pepino-atun",
+      "name": "Rollitos de pepino con atún",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Small cucumber ribbon rolls filled with creamy canned tuna and yogurt salad, visible pale tuna centers, arranged on an ivory plate, no rice or sushi.",
+      "original": "output/imagegen/rollitos-pepino-atun.png",
+      "asset": "public/images/recipes/rollitos-pepino-atun.webp"
+    },
+    {
+      "id": "pollo-arroz-verduras",
+      "name": "Pollo al limón con arroz integral",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Sliced cooked lemon chicken breast alongside brown rice, steamed broccoli and carrot slices, ivory dinner plate, no cream sauce.",
+      "original": "output/imagegen/pollo-arroz-verduras.png",
+      "asset": "public/images/recipes/pollo-arroz-verduras.webp"
+    },
+    {
+      "id": "lentejas-espinaca",
+      "name": "Lentejas guisadas con espinaca",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A deep ivory bowl of brown lentil stew with diced carrot, tomato and wilted green spinach in a tomato broth, no meat.",
+      "original": "output/imagegen/lentejas-espinaca.png",
+      "asset": "public/images/recipes/lentejas-espinaca.webp"
+    },
+    {
+      "id": "salmon-camote",
+      "name": "Salmón al horno con camote y ejotes",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: One baked salmon fillet with roasted orange sweet potato cubes and green beans on an ivory plate, light lemon mustard glaze, no rice.",
+      "original": "output/imagegen/salmon-camote.png",
+      "asset": "public/images/recipes/salmon-camote.webp"
+    },
+    {
+      "id": "pasta-integral-atun",
+      "name": "Pasta integral con atún y tomate",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Whole wheat penne pasta with red tomato sauce, flaked canned tuna and diced green zucchini in an ivory shallow bowl, no cheese or cream.",
+      "original": "output/imagegen/pasta-integral-atun.png",
+      "asset": "public/images/recipes/pasta-integral-atun.webp"
+    },
+    {
+      "id": "fajitas-res-pimientos",
+      "name": "Fajitas de res con pimientos",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Cooked lean beef strips sautéed with red and green bell pepper strips and onion, two corn tortillas beside them, ivory plate, no cheese.",
+      "original": "output/imagegen/fajitas-res-pimientos.png",
+      "asset": "public/images/recipes/fajitas-res-pimientos.webp"
+    },
+    {
+      "id": "tofu-brocoli",
+      "name": "Tofu dorado con brócoli y arroz",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Golden browned tofu cubes and vibrant broccoli with sesame seeds served over brown rice in an ivory bowl, light soy ginger glaze, no meat.",
+      "original": "output/imagegen/tofu-brocoli.png",
+      "asset": "public/images/recipes/tofu-brocoli.webp"
+    },
+    {
+      "id": "ensalada-mediterranea",
+      "name": "Ensalada mediterránea de alubias",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Mediterranean white bean salad with cucumber cubes, cherry tomato halves, red onion, a few olives and modest crumbled feta, ivory bowl.",
+      "original": "output/imagegen/ensalada-mediterranea.png",
+      "asset": "public/images/recipes/ensalada-mediterranea.webp"
+    },
+    {
+      "id": "albondigas-pavo",
+      "name": "Albóndigas de pavo en salsa de tomate",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Four cooked turkey meatballs in red tomato sauce alongside brown rice on an ivory plate, no cheese topping.",
+      "original": "output/imagegen/albondigas-pavo.png",
+      "asset": "public/images/recipes/albondigas-pavo.webp"
+    },
+    {
+      "id": "berenjena-lentejas",
+      "name": "Berenjenas rellenas de lentejas",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two roasted eggplant halves filled with brown lentils, tomato and finely grated carrot, ivory platter, no cheese or meat.",
+      "original": "output/imagegen/berenjena-lentejas.png",
+      "asset": "public/images/recipes/berenjena-lentejas.webp"
+    },
+    {
+      "id": "coliflor-camarones",
+      "name": "Arroz de coliflor con camarones",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Finely chopped cauliflower rice with cooked pink shrimp, green peas and small carrot cubes in an ivory bowl, no actual rice.",
+      "original": "output/imagegen/coliflor-camarones.png",
+      "asset": "public/images/recipes/coliflor-camarones.webp"
+    },
+    {
+      "id": "curry-garbanzos",
+      "name": "Curry suave de garbanzos y espinaca",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Chickpea spinach curry in warm golden tomato coconut sauce with brown rice on the side, ivory shallow bowl, no meat or naan.",
+      "original": "output/imagegen/curry-garbanzos.png",
+      "asset": "public/images/recipes/curry-garbanzos.webp"
+    },
+    {
+      "id": "pozole-pollo",
+      "name": "Pozole rojo de pollo",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A bowl of red chicken pozole with white hominy kernels and shredded chicken in red guajillo broth, topped with shredded lettuce and sliced radish, lime wedge beside it.",
+      "original": "output/imagegen/pozole-pollo.png",
+      "asset": "public/images/recipes/pozole-pollo.webp"
+    },
+    {
+      "id": "crema-calabaza",
+      "name": "Crema de calabaza y zanahoria",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Smooth orange pumpkin carrot soup in an ivory bowl topped only with green pumpkin seeds, no cream swirl.",
+      "original": "output/imagegen/crema-calabaza.png",
+      "asset": "public/images/recipes/crema-calabaza.webp"
+    },
+    {
+      "id": "ensalada-atun-alubias",
+      "name": "Ensalada de atún y alubias",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Fresh lettuce salad with white beans, visibly flaked tuna, cucumber half moons and red onion, ivory bowl, no feta or olives.",
+      "original": "output/imagegen/ensalada-atun-alubias.png",
+      "asset": "public/images/recipes/ensalada-atun-alubias.webp"
+    },
+    {
+      "id": "tortilla-espinaca",
+      "name": "Tortilla de espinaca y champiñones",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two thick wedges of fully cooked spinach mushroom egg tortilla with green spinach and sliced mushrooms visible in cross section, ivory plate.",
+      "original": "output/imagegen/tortilla-espinaca.png",
+      "asset": "public/images/recipes/tortilla-espinaca.webp"
+    },
+    {
+      "id": "tostadas-tinga",
+      "name": "Tostadas horneadas de tinga",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two baked corn tostadas topped with red tomato chipotle shredded chicken tinga, shredded lettuce and avocado slices, no cream or cheese.",
+      "original": "output/imagegen/tostadas-tinga.png",
+      "asset": "public/images/recipes/tostadas-tinga.webp"
+    },
+    {
+      "id": "wraps-lechuga-pollo",
+      "name": "Wraps de lechuga con pollo y verduras",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Three crisp lettuce cups filled with small cooked chicken cubes, thin carrot and red bell pepper strips, ivory plate, no tortilla.",
+      "original": "output/imagegen/wraps-lechuga-pollo.png",
+      "asset": "public/images/recipes/wraps-lechuga-pollo.webp"
+    },
+    {
+      "id": "sopa-minestrone",
+      "name": "Minestrone de verduras y alubias",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: A deep ivory bowl of red tomato minestrone with white beans, short whole wheat pasta, diced carrots, zucchini and celery, no cheese.",
+      "original": "output/imagegen/sopa-minestrone.png",
+      "asset": "public/images/recipes/sopa-minestrone.webp"
+    },
+    {
+      "id": "quesadillas-huitlacoche",
+      "name": "Quesadillas de huitlacoche y epazote",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Folded corn quesadillas with dark black-gray huitlacoche filling and a little melted white cheese visible along the edges, ivory plate, no squash blossom.",
+      "original": "output/imagegen/quesadillas-huitlacoche.png",
+      "asset": "public/images/recipes/quesadillas-huitlacoche.webp"
+    },
+    {
+      "id": "pescado-papillote",
+      "name": "Pescado en papillote con verduras",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: An opened parchment packet showing cooked white fish fillet over thin zucchini carrot and onion strips with lemon slices, on an ivory plate, no rice.",
+      "original": "output/imagegen/pescado-papillote.png",
+      "asset": "public/images/recipes/pescado-papillote.webp"
+    },
+    {
+      "id": "sopa-fideo-integral",
+      "name": "Sopa de fideo integral con verduras",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Mexican red tomato broth soup with thin short whole wheat vermicelli noodles, small carrot and zucchini cubes, ivory bowl, no beans.",
+      "original": "output/imagegen/sopa-fideo-integral.png",
+      "asset": "public/images/recipes/sopa-fideo-integral.webp"
+    },
+    {
+      "id": "portobellos-requeson",
+      "name": "Portobellos rellenos de requesón",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Two large roasted portobello caps filled with white ricotta-like requeson, spinach and diced tomato, ivory plate, no breadcrumbs.",
+      "original": "output/imagegen/portobellos-requeson.png",
+      "asset": "public/images/recipes/portobellos-requeson.webp"
+    },
+    {
+      "id": "calabacitas-mexicana",
+      "name": "Calabacitas a la mexicana con panela",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual photograph for a healthy recipe card. Style: realistic editorial food photography, natural daylight, authentic food textures. Composition: landscape 3:2, slightly overhead, centered dish fully visible with crop safety. Clean warm white table, ivory ceramics, subtle sage linen detail. No hands, people, text, logos, watermark, collage or multiple panels. Show just this single recipe, matching its specified ingredients. Primary subject: Diced sautéed zucchini with red tomato, yellow corn kernels and small white panela cheese cubes, ivory shallow bowl with a corn tortilla beside it.",
+      "original": "output/imagegen/calabacitas-mexicana.png",
+      "asset": "public/images/recipes/calabacitas-mexicana.webp"
+    }
+  ],
+  "existingImagePrompts": "output/imagegen/prompts.json"
+}

@@ -50,7 +50,7 @@ export default function Home() {
 
       <main className="shell">
         <section id="recetas" className="recipe-collection" aria-label="Recetario">
-          <div className="collection-top"><div><span className="eyebrow muted">TU DOSIS DE INSPIRACIÓN</span><h1>¿Qué se te antoja hoy?</h1></div><span className="recipe-total">4 recetas para empezar <span>↗</span></span></div>
+          <div className="collection-top"><div><span className="eyebrow muted">TU DOSIS DE INSPIRACIÓN</span><h1>¿Qué se te antoja hoy?</h1></div><span className="recipe-total">{recipes.length} recetas para disfrutar <span>↗</span></span></div>
           <div className="filter-bar">
             <nav className="category-tabs" aria-label="Filtrar por categoría">
               <button aria-pressed={filter === 'all'} className={filter === 'all' ? 'selected' : ''} onClick={() => setFilter('all')}><SlidersHorizontal size={16} />Todas</button>
@@ -65,16 +65,16 @@ export default function Home() {
               const Icon = icons[category.id];
               if (!matching.length) return null;
               return <section className={`category-section ${category.id}`} key={category.id} aria-labelledby={`heading-${category.id}`}>
-                <div className="section-heading"><div className="flex items-center gap-3"><span className="category-icon"><Icon size={20} strokeWidth={1.7} /></span><div><h3 id={`heading-${category.id}`}>{category.name}</h3><p>{category.subtitle}</p></div></div><span className="section-number">01</span></div>
-                {matching.map(recipe => <article key={recipe.id} className="recipe-card">
-                  <button className="recipe-photo-button" onClick={() => openRecipe(recipe)} aria-label={`Ver receta: ${recipe.name}`}><Image className="recipe-photo" src={`/images/recipes/${recipe.id}.webp`} alt={recipe.name} width={1200} height={800} sizes="(max-width: 640px) 100vw, 50vw" unoptimized /></button>
+                <div className="section-heading"><div className="flex items-center gap-3"><span className="category-icon"><Icon size={20} strokeWidth={1.7} /></span><div><h3 id={`heading-${category.id}`}>{category.name}</h3><p>{category.subtitle}</p></div></div><span className="section-number">{matching.length} {matching.length === 1 ? 'receta' : 'recetas'}</span></div>
+                <div className="recipe-grid">{matching.map(recipe => <article key={recipe.id} className="recipe-card">
+                  <button className="recipe-photo-button" onClick={() => openRecipe(recipe)} aria-label={`Ver receta: ${recipe.name}`}><Image className="recipe-photo" src={`/images/recipes/${recipe.id}.webp`} alt={recipe.name} width={1200} height={800} sizes="(max-width: 640px) 100vw, (max-width: 1100px) 50vw, 33vw" unoptimized /></button>
                   <div className="card-top"><span className="recipe-label"><span />{recipe.category === 'snacks' ? 'PARA ESE ANTOJO' : recipe.category === 'desayunos' ? 'UN BUEN COMIENZO' : recipe.category === 'comidas' ? 'A LA HORA DE COMER' : 'EL ÚLTIMO BOCADO'}</span><button className={`bookmark ${saved.includes(recipe.id) ? 'is-saved' : ''}`} aria-label={`${saved.includes(recipe.id) ? 'Quitar de' : 'Guardar en'} mis recetas: ${recipe.name}`} aria-pressed={saved.includes(recipe.id)} onClick={() => toggleSaved(recipe.id)}><Bookmark size={19} strokeWidth={1.6} fill={saved.includes(recipe.id) ? 'currentColor' : 'none'} /></button></div>
                   <button className="title-button" onClick={() => openRecipe(recipe)}><h4>{recipe.name}</h4></button>
                   <p className="card-description">{recipe.description}</p>
                   <div className="recipe-meta"><span><Clock3 size={15} />{recipe.minutes} min</span><span><Users size={15} />{recipe.servings} {recipe.servings === 1 ? 'porción' : 'porciones'}</span><span><CookingPot size={15} />Fácil</span></div>
-                  <div className="ingredient-preview"><span>LOS PROTAGONISTAS</span><p>{recipe.id === 'hummus-limon' ? 'Garbanzos · limón · verduras frescas' : recipe.id === 'avena-manzana' ? 'Avena · manzana · canela · nueces' : recipe.id === 'bowl-quinoa' ? 'Quinoa · garbanzos · aguacate' : 'Champiñones · frijoles · maíz'}</p></div>
+                  <div className="ingredient-preview"><span>LOS PROTAGONISTAS</span><p>{recipe.highlights}</p></div>
                   <div className="card-footer"><div className="tags">{recipe.tags.map(tag => <span key={tag}>{tag}</span>)}</div><button className="view-recipe" onClick={() => openRecipe(recipe)}>Ver receta <ArrowUpRight size={18} /></button></div>
-                </article>)}
+                </article>)}</div>
               </section>;
             })}
           </div>

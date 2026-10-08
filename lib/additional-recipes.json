@@ -1,0 +1,1963 @@
+[
+  {
+    "id": "huevos-mexicana",
+    "category": "desayunos",
+    "name": "Huevos a la mexicana con nopal",
+    "description": "Tomate, cebolla y nopal acompañan unos huevos suaves, listos para servir con tortillas calientes.",
+    "minutes": 20,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "En sartén"
+    ],
+    "highlights": "Huevo · nopal · tomate · maíz",
+    "ingredients": [
+      "4 huevos",
+      "2 nopales medianos limpios",
+      "2 tomates medianos",
+      "¼ de cebolla",
+      "1 cucharadita de aceite de oliva",
+      "4 tortillas de maíz",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara el nopal",
+        "text": "Corta los nopales en cubos pequeños. Hiérvelos en agua durante 8 a 10 minutos, hasta que estén tiernos. Escúrrelos y enjuágalos para retirar el exceso de baba."
+      },
+      {
+        "title": "Sofríe los vegetales",
+        "text": "Pica el tomate y la cebolla. Calienta el aceite en una sartén a fuego medio y cocina la cebolla 2 minutos. Añade el tomate y cocina otros 3 minutos; incorpora el nopal escurrido."
+      },
+      {
+        "title": "Cocina los huevos",
+        "text": "Bate los huevos con sal y pimienta. Viértelos en la sartén y mueve suavemente con una espátula durante 3 a 5 minutos, hasta que estén cuajados y no quede huevo líquido."
+      },
+      {
+        "title": "Sirve caliente",
+        "text": "Calienta las tortillas en un comal por ambos lados. Divide los huevos con nopal entre dos platos y acompaña cada porción con dos tortillas."
+      }
+    ],
+    "tip": "Escurre muy bien el nopal para que el huevo no quede aguado.",
+    "imageSubject": "Mexican scrambled eggs with visible diced tomato, onion and green cactus paddle pieces, two warm small corn tortillas beside the eggs on an ivory plate"
+  },
+  {
+    "id": "chilaquiles-verdes",
+    "category": "desayunos",
+    "name": "Chilaquiles verdes al horno",
+    "description": "Tortillas horneadas con salsa de tomatillo, frijoles y queso fresco para un desayuno lleno de sabor.",
+    "minutes": 30,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Al horno"
+    ],
+    "highlights": "Tomatillo · maíz · frijoles · queso",
+    "ingredients": [
+      "6 tortillas de maíz",
+      "6 tomatillos pelados y lavados",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "½ chile serrano, opcional",
+      "1 cucharadita de aceite de oliva",
+      "½ taza de frijoles negros cocidos",
+      "40 g de queso fresco pasteurizado",
+      "2 cucharadas de cilantro lavado y desinfectado",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Hornea las tortillas",
+        "text": "Precalienta el horno a 190 °C. Corta las tortillas en triángulos, mézclalas con el aceite y extiéndelas en una charola. Hornea de 12 a 15 minutos, volteando a la mitad, hasta que estén crujientes."
+      },
+      {
+        "title": "Prepara la salsa",
+        "text": "Hierve los tomatillos, la cebolla, el ajo y el chile durante 8 minutos. Licúa con ¼ de taza del agua de cocción y una pizca de sal hasta obtener una salsa uniforme."
+      },
+      {
+        "title": "Calienta y mezcla",
+        "text": "Vierte la salsa en una sartén amplia y cocina a fuego medio 4 minutos. Añade los frijoles para calentarlos. Incorpora los triángulos horneados y mezcla solo lo necesario para cubrirlos."
+      },
+      {
+        "title": "Termina el plato",
+        "text": "Sirve de inmediato en dos platos. Desmorona el queso encima y añade el cilantro. Para conservar más textura, mezcla las tortillas con la salsa justo antes de comer."
+      }
+    ],
+    "tip": "Usa tortillas del día anterior: pierden humedad y quedan más crujientes en el horno.",
+    "imageSubject": "Green chilaquiles made with corn tortilla triangles coated in green tomatillo salsa, black beans, a modest sprinkle of crumbled white queso fresco and cilantro, ivory shallow plate, no fried eggs or cream"
+  },
+  {
+    "id": "hotcakes-platano",
+    "category": "desayunos",
+    "name": "Hotcakes de plátano y avena",
+    "description": "Esponjosos y sin azúcar añadida, con plátano maduro y avena como base.",
+    "minutes": 20,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Sin azúcar añadida"
+    ],
+    "highlights": "Plátano · avena · huevo · fresa",
+    "ingredients": [
+      "1 plátano maduro",
+      "¾ de taza de hojuelas de avena",
+      "2 huevos",
+      "¼ de taza de leche",
+      "½ cucharadita de polvo para hornear",
+      "½ cucharadita de canela",
+      "1 cucharadita de aceite para la sartén",
+      "½ taza de fresas lavadas y desinfectadas"
+    ],
+    "steps": [
+      {
+        "title": "Licúa la mezcla",
+        "text": "Coloca el plátano, la avena, los huevos, la leche, el polvo para hornear y la canela en una licuadora. Procesa hasta que no queden hojuelas grandes y deja reposar la mezcla 5 minutos."
+      },
+      {
+        "title": "Calienta la sartén",
+        "text": "Pon una sartén antiadherente a fuego medio bajo. Distribuye una pequeña cantidad del aceite con una brocha. Si la mezcla está muy espesa, incorpora una cucharada de agua."
+      },
+      {
+        "title": "Forma los hotcakes",
+        "text": "Vierte porciones de unas 3 cucharadas, dejando espacio entre ellas. Cocina 2 a 3 minutos, hasta que los bordes se vean firmes y aparezcan burbujas. Voltea y cocina otros 2 minutos, hasta que el centro esté cuajado."
+      },
+      {
+        "title": "Acompaña con fruta",
+        "text": "Repite con el resto de la mezcla y reparte los hotcakes entre dos platos. Corta las fresas y colócalas encima. Sírvelos calientes."
+      }
+    ],
+    "tip": "Hazlos pequeños para voltearlos con facilidad y evita subir el fuego: el plátano se dora rápido.",
+    "imageSubject": "A small stack of three golden banana oat pancakes topped with sliced fresh strawberries and banana, ivory plate, no syrup, no butter"
+  },
+  {
+    "id": "chia-mango",
+    "category": "desayunos",
+    "name": "Pudín de chía con mango",
+    "description": "Un desayuno fresco que se prepara la noche anterior, con una textura cremosa y fruta natural.",
+    "minutes": 250,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Preparación anticipada"
+    ],
+    "highlights": "Chía · mango · soya · coco",
+    "ingredients": [
+      "¼ de taza de semillas de chía",
+      "1 taza de bebida de soya sin azúcar",
+      "½ cucharadita de vainilla",
+      "1 mango mediano maduro",
+      "1 cucharada de coco rallado sin azúcar"
+    ],
+    "steps": [
+      {
+        "title": "Mezcla la base",
+        "text": "En un recipiente combina la chía, la bebida de soya y la vainilla. Remueve durante 1 minuto, raspando el fondo para que todas las semillas queden mojadas."
+      },
+      {
+        "title": "Evita los grumos",
+        "text": "Deja reposar 10 minutos y vuelve a mezclar. Este segundo movimiento separa las semillas que se agrupan y ayuda a conseguir una textura uniforme."
+      },
+      {
+        "title": "Refrigera",
+        "text": "Reparte en dos vasos o frascos, tapa y refrigera al menos 4 horas o toda la noche. La chía debe formar un pudín espeso; si queda muy denso, agrega un poco más de bebida de soya."
+      },
+      {
+        "title": "Añade el mango",
+        "text": "Lava y pela el mango, retira el hueso y corta la pulpa en cubos. Distribúyela sobre el pudín y termina con el coco. Sirve frío."
+      }
+    ],
+    "tip": "El tiempo total incluye 4 horas de refrigeración; el trabajo activo es de unos 10 minutos.",
+    "imageSubject": "Two clear small glass jars of creamy chia pudding topped with bright diced mango and a light sprinkle of shredded coconut, white tabletop"
+  },
+  {
+    "id": "yogur-frutos-rojos",
+    "category": "desayunos",
+    "name": "Bowl de yogur con frutos rojos",
+    "description": "Yogur natural, fruta fresca y avena tostada para un desayuno sin complicaciones.",
+    "minutes": 10,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Rápido"
+    ],
+    "highlights": "Yogur · frutos rojos · avena · almendras",
+    "ingredients": [
+      "1½ tazas de yogur griego natural sin azúcar",
+      "1 taza de fresas y arándanos lavados y desinfectados",
+      "¼ de taza de hojuelas de avena",
+      "2 cucharadas de almendras picadas",
+      "½ cucharadita de canela"
+    ],
+    "steps": [
+      {
+        "title": "Tuesta la avena",
+        "text": "Coloca la avena en una sartén seca a fuego medio bajo. Mueve durante 3 a 4 minutos hasta que huela a cereal tostado, sin dejar que se queme. Retira y deja enfriar."
+      },
+      {
+        "title": "Prepara la fruta",
+        "text": "Retira las hojas de las fresas y córtalas en cuartos. Seca suavemente los arándanos para que no suelten agua sobre el yogur."
+      },
+      {
+        "title": "Arma los bowls",
+        "text": "Reparte el yogur entre dos tazones y alisa la superficie con una cuchara. Distribuye las fresas y los arándanos encima."
+      },
+      {
+        "title": "Da el toque crujiente",
+        "text": "Mezcla la avena fría con las almendras y la canela. Añade a los bowls justo antes de servir para conservar la textura."
+      }
+    ],
+    "tip": "Si lo llevas contigo, transporta la avena y las almendras aparte del yogur.",
+    "imageSubject": "Ivory bowl of plain Greek yogurt topped with strawberries, blueberries, toasted oat flakes and chopped almonds, no honey"
+  },
+  {
+    "id": "molletes-integrales",
+    "category": "desayunos",
+    "name": "Molletes integrales con pico de gallo",
+    "description": "Pan integral crujiente, frijoles y queso fundido con un toque fresco de tomate y cilantro.",
+    "minutes": 20,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Al horno"
+    ],
+    "highlights": "Pan integral · frijoles · queso · tomate",
+    "ingredients": [
+      "1 bolillo integral grande o 2 pequeños",
+      "¾ de taza de frijoles cocidos",
+      "60 g de queso Oaxaca o mozzarella pasteurizado",
+      "1 tomate mediano",
+      "¼ de cebolla",
+      "1 cucharada de cilantro lavado y desinfectado",
+      "1 cucharada de jugo de limón",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara los frijoles",
+        "text": "Precalienta el horno a 200 °C. Machaca los frijoles en una olla con 2 cucharadas de agua y calienta a fuego bajo 3 minutos. Deben quedar untables; añade agua si hace falta."
+      },
+      {
+        "title": "Monta los molletes",
+        "text": "Abre el bolillo a lo largo y colócalo sobre una charola. Unta los frijoles hasta cubrir cada mitad y reparte el queso deshebrado encima."
+      },
+      {
+        "title": "Hornea y pica",
+        "text": "Hornea de 8 a 10 minutos, hasta que el queso se funda y el pan esté crujiente en los bordes. Mientras tanto, pica el tomate y la cebolla en cubos pequeños."
+      },
+      {
+        "title": "Añade el pico de gallo",
+        "text": "Mezcla tomate, cebolla, cilantro, limón y una pizca de sal. Reparte el pico de gallo sobre los molletes recién horneados y sirve."
+      }
+    ],
+    "tip": "Si solo tienes pan de caja integral, utiliza cuatro rebanadas y vigila el horno porque se doran más rápido.",
+    "imageSubject": "Two halves of whole wheat Mexican bolillo topped with mashed beans, lightly melted white cheese and fresh tomato onion cilantro pico de gallo, ivory plate"
+  },
+  {
+    "id": "tostada-huevo-aguacate",
+    "category": "desayunos",
+    "name": "Tostada de aguacate con huevo",
+    "description": "Pan integral tostado con aguacate cremoso, huevo y tomate fresco.",
+    "minutes": 15,
+    "servings": 1,
+    "tags": [
+      "Vegetariano",
+      "Rápido"
+    ],
+    "highlights": "Pan integral · aguacate · huevo · tomate",
+    "ingredients": [
+      "1 rebanada grande de pan integral",
+      "½ aguacate pequeño",
+      "1 huevo",
+      "½ tomate mediano",
+      "1 cucharadita de jugo de limón",
+      "½ cucharadita de aceite de oliva",
+      "Pimienta y sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara el aguacate",
+        "text": "Machaca la pulpa del aguacate en un recipiente con el jugo de limón y una pizca de sal. Corta el tomate lavado en rebanadas finas."
+      },
+      {
+        "title": "Cocina el huevo",
+        "text": "Calienta el aceite en una sartén antiadherente a fuego medio bajo. Añade el huevo y tapa. Cocina hasta que la clara y la yema estén firmes; revisa a partir de los 4 minutos."
+      },
+      {
+        "title": "Tuesta el pan",
+        "text": "Mientras se cocina el huevo, tuesta el pan en tostador o en un comal seco. Debe quedar dorado y firme para sostener los ingredientes."
+      },
+      {
+        "title": "Arma la tostada",
+        "text": "Unta el aguacate en el pan, coloca el tomate y termina con el huevo. Añade pimienta al gusto y sirve inmediatamente."
+      }
+    ],
+    "tip": "También puedes usar un huevo cocido rebanado; así puedes preparar casi todo con anticipación.",
+    "imageSubject": "One whole grain toast with mashed avocado, fresh tomato slices and a fully cooked sunny-side egg with firm yolk, ivory plate"
+  },
+  {
+    "id": "smoothie-verde",
+    "category": "desayunos",
+    "name": "Smoothie verde de piña y espinaca",
+    "description": "Fruta, hojas verdes y avena en un licuado fresco y cremoso, sin azúcar añadida.",
+    "minutes": 10,
+    "servings": 1,
+    "tags": [
+      "Vegetal",
+      "Sin cocción"
+    ],
+    "highlights": "Piña · espinaca · plátano · avena",
+    "ingredients": [
+      "¾ de taza de piña en cubos",
+      "½ plátano",
+      "1 taza de espinaca lavada y desinfectada",
+      "¾ de taza de bebida de soya sin azúcar",
+      "2 cucharadas de hojuelas de avena",
+      "¼ de taza de hielo"
+    ],
+    "steps": [
+      {
+        "title": "Prepara la fruta",
+        "text": "Retira la cáscara y el centro fibroso de la piña. Mide los cubos y pela el plátano. Escurre la espinaca después de lavarla y desinfectarla."
+      },
+      {
+        "title": "Licúa las hojas",
+        "text": "Vierte la bebida de soya en la licuadora y añade la espinaca. Licúa 30 segundos para deshacer bien las hojas antes de agregar lo demás."
+      },
+      {
+        "title": "Incorpora la base",
+        "text": "Añade piña, plátano, avena y hielo. Licúa de 45 a 60 segundos, hasta que no queden trozos grandes. Si está demasiado espeso, añade 2 cucharadas de agua."
+      },
+      {
+        "title": "Sirve al momento",
+        "text": "Vierte en un vaso grande. Remueve antes de beber si el licuado se separa; su textura es más agradable recién preparado."
+      }
+    ],
+    "tip": "Congela la piña en cubos y omite el hielo para obtener una consistencia más cremosa.",
+    "imageSubject": "One tall clear glass of smooth pale green pineapple spinach banana smoothie on white table, small pineapple pieces nearby, no powders or text"
+  },
+  {
+    "id": "quesadillas-flor",
+    "category": "desayunos",
+    "name": "Quesadillas de flor de calabaza",
+    "description": "Flores de calabaza salteadas con cebolla y queso dentro de tortillas de maíz.",
+    "minutes": 20,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "En comal"
+    ],
+    "highlights": "Flor de calabaza · maíz · queso · cebolla",
+    "ingredients": [
+      "4 tortillas de maíz",
+      "2 tazas de flor de calabaza limpia",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "60 g de queso Oaxaca pasteurizado",
+      "1 cucharadita de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Limpia las flores",
+        "text": "Retira los tallos duros y el pistilo del centro. Enjuaga las flores con cuidado, escúrrelas y córtalas en tiras. Pica finamente la cebolla y el ajo."
+      },
+      {
+        "title": "Saltea el relleno",
+        "text": "Calienta el aceite a fuego medio. Cocina la cebolla 3 minutos y añade el ajo durante 30 segundos. Agrega las flores y una pizca de sal; cocina de 3 a 4 minutos hasta que se ablanden y el líquido se evapore."
+      },
+      {
+        "title": "Rellena las tortillas",
+        "text": "Calienta las tortillas brevemente en un comal para que se puedan doblar. Distribuye las flores y el queso deshebrado en la mitad de cada una; dóblalas sobre el relleno."
+      },
+      {
+        "title": "Dora en el comal",
+        "text": "Cocina las quesadillas a fuego medio bajo de 2 a 3 minutos por lado, hasta que el queso se funda y la tortilla tenga manchas doradas. Sirve dos por persona."
+      }
+    ],
+    "tip": "No amontones las flores húmedas en la sartén; deja evaporar el líquido antes de rellenar.",
+    "imageSubject": "Two folded corn quesadillas with orange squash blossoms and melted white Oaxaca cheese visible at the edges, ivory plate, no meat"
+  },
+  {
+    "id": "muffins-zanahoria",
+    "category": "desayunos",
+    "name": "Muffins de zanahoria y avena",
+    "description": "Panecitos suaves con zanahoria, canela y nueces, ideales para preparar con anticipación.",
+    "minutes": 35,
+    "servings": 6,
+    "tags": [
+      "Vegetariano",
+      "Al horno"
+    ],
+    "highlights": "Zanahoria · avena · yogur · nueces",
+    "ingredients": [
+      "1 taza de harina de avena",
+      "½ taza de zanahoria finamente rallada",
+      "1 plátano maduro",
+      "1 huevo",
+      "⅓ de taza de yogur natural sin azúcar",
+      "1 cucharada de aceite de oliva suave",
+      "1 cucharadita de polvo para hornear",
+      "½ cucharadita de canela",
+      "2 cucharadas de nueces picadas"
+    ],
+    "steps": [
+      {
+        "title": "Prepara el horno",
+        "text": "Precalienta el horno a 180 °C y coloca capacillos en seis cavidades de un molde para muffins. Lava, pela y ralla finamente la zanahoria."
+      },
+      {
+        "title": "Mezcla lo húmedo",
+        "text": "Machaca el plátano hasta formar un puré. Bate con el huevo, el yogur y el aceite. Incorpora la zanahoria rallada y mezcla con una cuchara."
+      },
+      {
+        "title": "Añade los secos",
+        "text": "Combina la harina de avena, el polvo para hornear y la canela. Agrégalos a la mezcla húmeda junto con las nueces. Remueve solo hasta integrar, sin batir en exceso."
+      },
+      {
+        "title": "Hornea los muffins",
+        "text": "Reparte la mezcla sin llenar más de tres cuartas partes de cada cavidad. Hornea de 20 a 25 minutos, hasta que un palillo salga sin masa húmeda. Deja enfriar 10 minutos antes de desmoldar."
+      }
+    ],
+    "tip": "Rinde seis muffins pequeños, una porción por muffin. Acompáñalos con yogur o fruta si deseas un desayuno más completo.",
+    "imageSubject": "Three golden small carrot oat muffins in simple paper liners, one cut open showing moist carrot crumb, chopped walnuts visible, no icing"
+  },
+  {
+    "id": "avena-nocturna-cacao",
+    "category": "desayunos",
+    "name": "Avena nocturna con cacao y pera",
+    "description": "Avena fría y cremosa con cacao, pera y semillas; lista para tomar del refrigerador.",
+    "minutes": 250,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Preparación anticipada"
+    ],
+    "highlights": "Avena · cacao · pera · yogur",
+    "ingredients": [
+      "¾ de taza de hojuelas de avena",
+      "¾ de taza de leche",
+      "½ taza de yogur natural sin azúcar",
+      "1 cucharada de cacao puro sin azúcar",
+      "1 pera madura",
+      "1 cucharada de semillas de calabaza"
+    ],
+    "steps": [
+      {
+        "title": "Mezcla la base",
+        "text": "En un recipiente combina la leche, el yogur y el cacao. Remueve con un batidor pequeño hasta deshacer los grumos del cacao."
+      },
+      {
+        "title": "Añade la avena",
+        "text": "Incorpora las hojuelas y mezcla bien. Reparte en dos recipientes con tapa, dejando espacio arriba para la fruta."
+      },
+      {
+        "title": "Deja hidratar",
+        "text": "Tapa y refrigera al menos 4 horas o toda la noche. Al abrir, remueve; añade un poco de leche si prefieres una consistencia más ligera."
+      },
+      {
+        "title": "Termina con pera",
+        "text": "Lava la pera, retira el corazón y córtala en cubos. Añádela a la avena fría junto con las semillas de calabaza justo antes de comer."
+      }
+    ],
+    "tip": "El tiempo incluye el reposo. Puedes hacer la base en 10 minutos y añadir la pera por la mañana.",
+    "imageSubject": "A glass jar of chocolate brown overnight oats with diced fresh pear and green pumpkin seeds on top, no syrup"
+  },
+  {
+    "id": "burrito-desayuno",
+    "category": "desayunos",
+    "name": "Burrito integral de huevo y frijoles",
+    "description": "Un desayuno para llevar con huevo revuelto, frijoles y pimiento en tortilla integral.",
+    "minutes": 20,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Para llevar"
+    ],
+    "highlights": "Huevo · frijoles · pimiento · tortilla integral",
+    "ingredients": [
+      "2 tortillas integrales de harina medianas",
+      "3 huevos",
+      "½ taza de frijoles negros cocidos y escurridos",
+      "½ pimiento rojo",
+      "¼ de cebolla",
+      "1 cucharadita de aceite de oliva",
+      "2 cucharadas de cilantro lavado y desinfectado",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta y saltea",
+        "text": "Lava el pimiento, retira las semillas y pícalo junto con la cebolla. Calienta el aceite y cocina ambos a fuego medio durante 5 minutos, hasta que se ablanden."
+      },
+      {
+        "title": "Cocina el relleno",
+        "text": "Bate los huevos con sal y pimienta. Viértelos sobre los vegetales y mueve durante 3 a 5 minutos hasta que estén completamente cuajados. Incorpora los frijoles y calienta 2 minutos."
+      },
+      {
+        "title": "Forma los burritos",
+        "text": "Calienta las tortillas para hacerlas flexibles. Reparte el relleno en el centro, añade el cilantro, dobla los costados hacia adentro y enrolla desde el borde más cercano."
+      },
+      {
+        "title": "Sella y sirve",
+        "text": "Coloca los burritos con el cierre hacia abajo en la sartén seca. Dora 1 minuto por lado. Sirve enteros o cortados por la mitad; si los transportas, mantenlos refrigerados hasta consumirlos."
+      }
+    ],
+    "tip": "Deja escurrir los frijoles: el relleno húmedo puede romper la tortilla.",
+    "imageSubject": "A whole wheat breakfast burrito cut in half showing scrambled eggs, black beans and red pepper, clean ivory plate"
+  },
+  {
+    "id": "edamame-limon",
+    "category": "snacks",
+    "name": "Edamame con limón y ajonjolí",
+    "description": "Vainas tiernas de soya con limón y semillas tostadas, listas en pocos minutos.",
+    "minutes": 12,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Rápido"
+    ],
+    "highlights": "Edamame · limón · ajonjolí",
+    "ingredients": [
+      "250 g de edamame congelado en vaina",
+      "1 cucharada de jugo de limón",
+      "1 cucharadita de ajonjolí",
+      "1 pizca de sal"
+    ],
+    "steps": [
+      {
+        "title": "Hierve el agua",
+        "text": "Llena una olla mediana con agua suficiente para cubrir el edamame y lleva a ebullición. No necesitas descongelar las vainas."
+      },
+      {
+        "title": "Cocina las vainas",
+        "text": "Añade el edamame y cocina según las instrucciones del paquete, normalmente de 4 a 6 minutos. Comprueba que los granos estén tiernos y escúrrelo bien."
+      },
+      {
+        "title": "Tuesta el ajonjolí",
+        "text": "Calienta las semillas en una sartén seca a fuego bajo durante 1 a 2 minutos, moviendo constantemente. Retira cuando desprendan aroma."
+      },
+      {
+        "title": "Sazona y sirve",
+        "text": "Mezcla las vainas con el limón, el ajonjolí y la sal. Reparte en dos tazones. Come los granos extrayéndolos de la vaina; la vaina no se come."
+      }
+    ],
+    "tip": "Pon un recipiente vacío en la mesa para las vainas y sirve tibio.",
+    "imageSubject": "A small ivory bowl filled with green edamame pods sprinkled with sesame seeds, lemon wedge alongside"
+  },
+  {
+    "id": "palomitas-paprika",
+    "category": "snacks",
+    "name": "Palomitas caseras con paprika",
+    "description": "Un snack crujiente hecho en olla, con poco aceite y un toque de pimentón.",
+    "minutes": 10,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "En olla"
+    ],
+    "highlights": "Maíz palomero · paprika · oliva",
+    "ingredients": [
+      "¼ de taza de maíz palomero",
+      "1 cucharadita de aceite de oliva",
+      "½ cucharadita de paprika",
+      "¼ de cucharadita de ajo en polvo",
+      "1 pizca de sal"
+    ],
+    "steps": [
+      {
+        "title": "Calienta la olla",
+        "text": "Pon el aceite y dos granos de maíz en una olla de fondo grueso con tapa. Calienta a fuego medio hasta que ambos granos revienten."
+      },
+      {
+        "title": "Añade el maíz",
+        "text": "Agrega el resto del maíz en una sola capa y tapa. Mueve la olla con cuidado cada pocos segundos, manteniendo la tapa puesta."
+      },
+      {
+        "title": "Escucha las palomitas",
+        "text": "Cuando los estallidos se separen unos 2 o 3 segundos, retira la olla del fuego. Espera unos segundos antes de abrir para que terminen de reventar."
+      },
+      {
+        "title": "Condimenta",
+        "text": "Vierte las palomitas en un tazón y retira los granos sin reventar. Espolvorea paprika, ajo y sal mientras mezclas para repartir los sabores."
+      }
+    ],
+    "tip": "No subas demasiado el fuego: las especias se añaden al final para que no se quemen.",
+    "imageSubject": "An ivory bowl of fluffy homemade popcorn lightly dusted with red paprika, no butter or caramel"
+  },
+  {
+    "id": "manzana-cacahuate",
+    "category": "snacks",
+    "name": "Manzana con crema de cacahuate",
+    "description": "Gajos de manzana con crema de cacahuate y canela para un antojo sencillo.",
+    "minutes": 5,
+    "servings": 1,
+    "tags": [
+      "Vegetal",
+      "Sin cocción"
+    ],
+    "highlights": "Manzana · cacahuate · canela",
+    "ingredients": [
+      "1 manzana mediana",
+      "1 cucharada de crema de cacahuate sin azúcar",
+      "¼ de cucharadita de canela"
+    ],
+    "steps": [
+      {
+        "title": "Lava la manzana",
+        "text": "Lava y seca la fruta. Déjala con cáscara si te gusta su textura; retira cualquier parte dañada."
+      },
+      {
+        "title": "Corta en gajos",
+        "text": "Parte la manzana, retira el corazón y las semillas y corta gajos de grosor similar. Acomódalos en un plato."
+      },
+      {
+        "title": "Sirve la crema",
+        "text": "Remueve la crema de cacahuate si el aceite se ha separado. Distribuye la cucharada sobre algunos gajos o sírvela aparte para untar."
+      },
+      {
+        "title": "Añade canela",
+        "text": "Espolvorea la canela y sirve al momento, antes de que la manzana se oxide. Usa una cuchara para repartir la crema en vez de sumergir toda la fruta en el frasco."
+      }
+    ],
+    "tip": "Elige crema hecha solo con cacahuates o cacahuates y sal.",
+    "imageSubject": "Fresh apple wedges with a small measured dollop of natural peanut butter and a light cinnamon sprinkle on an ivory plate"
+  },
+  {
+    "id": "pepino-jicama",
+    "category": "snacks",
+    "name": "Vasitos de pepino y jícama",
+    "description": "Bastones frescos con limón y chile, fáciles de llevar y preparar.",
+    "minutes": 10,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Sin cocción"
+    ],
+    "highlights": "Pepino · jícama · limón · chile",
+    "ingredients": [
+      "1 pepino mediano",
+      "250 g de jícama",
+      "2 cucharadas de jugo de limón",
+      "¼ de cucharadita de chile en polvo sin sal, opcional",
+      "1 pizca de sal"
+    ],
+    "steps": [
+      {
+        "title": "Lava y pela",
+        "text": "Lava el pepino y la jícama. Pela la jícama con un cuchillo o pelador; puedes conservar la cáscara del pepino si está en buen estado."
+      },
+      {
+        "title": "Corta bastones",
+        "text": "Corta ambos en bastones de aproximadamente 1 cm de ancho y un largo que quepa en tus vasos. Mantén tamaños similares para servirlos fácilmente."
+      },
+      {
+        "title": "Sazona",
+        "text": "Coloca los bastones en un recipiente, vierte el limón y añade el chile y la sal. Mezcla suavemente para distribuir el aderezo."
+      },
+      {
+        "title": "Reparte y conserva",
+        "text": "Divide entre dos vasos. Sirve de inmediato o tapa y refrigera hasta la hora de comer; si los llevarás varias horas, añade el limón al final."
+      }
+    ],
+    "tip": "Para un sabor suave, usa paprika en lugar de chile picante.",
+    "imageSubject": "Two clear small cups filled with fresh green cucumber sticks and white jicama sticks with light chili dust, lime wedge, no sauces"
+  },
+  {
+    "id": "bolitas-avena-datil",
+    "category": "snacks",
+    "name": "Bolitas de avena, dátil y cacao",
+    "description": "Bocados pequeños de avena y dátil, con cacao y sin necesidad de horno.",
+    "minutes": 25,
+    "servings": 4,
+    "tags": [
+      "Vegetal",
+      "Sin horno"
+    ],
+    "highlights": "Avena · dátil · cacao · cacahuate",
+    "ingredients": [
+      "½ taza de dátiles sin hueso",
+      "½ taza de hojuelas de avena",
+      "1 cucharada de cacao sin azúcar",
+      "1 cucharada de crema de cacahuate sin azúcar",
+      "1–2 cucharadas de agua"
+    ],
+    "steps": [
+      {
+        "title": "Ablanda los dátiles",
+        "text": "Si los dátiles están duros, cúbrelos con agua tibia durante 10 minutos y escúrrelos. Comprueba que no tengan huesos antes de procesar."
+      },
+      {
+        "title": "Procesa la mezcla",
+        "text": "Coloca dátiles, avena, cacao y crema de cacahuate en un procesador. Tritura en pulsos hasta formar una masa húmeda; añade agua de una cucharada a la vez si no se une."
+      },
+      {
+        "title": "Forma los bocados",
+        "text": "Toma porciones de una cucharada y presiónalas con las manos limpias. Forma ocho bolitas de tamaño similar y acomódalas en un recipiente."
+      },
+      {
+        "title": "Refrigera y sirve",
+        "text": "Refrigera 10 minutos para que se afirmen. Sirve dos bolitas por porción y conserva las restantes en un recipiente cerrado en el refrigerador."
+      }
+    ],
+    "tip": "La mezcla debe mantenerse unida al presionarla; demasiada agua la vuelve pegajosa.",
+    "imageSubject": "Eight small cocoa oat date energy balls arranged on an ivory plate, rough oat texture, no chocolate coating"
+  },
+  {
+    "id": "garbanzos-crujientes",
+    "category": "snacks",
+    "name": "Garbanzos crujientes al comino",
+    "description": "Garbanzos horneados con especias, dorados por fuera y llenos de sabor.",
+    "minutes": 40,
+    "servings": 3,
+    "tags": [
+      "Vegetal",
+      "Al horno"
+    ],
+    "highlights": "Garbanzos · comino · paprika",
+    "ingredients": [
+      "1½ tazas de garbanzos cocidos y escurridos",
+      "2 cucharaditas de aceite de oliva",
+      "½ cucharadita de comino",
+      "½ cucharadita de paprika",
+      "¼ de cucharadita de ajo en polvo",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Seca los garbanzos",
+        "text": "Precalienta el horno a 200 °C. Enjuaga los garbanzos y sécalos muy bien con un paño limpio. Retira las pieles sueltas sin necesidad de pelarlos todos."
+      },
+      {
+        "title": "Hornea la base",
+        "text": "Mezcla los garbanzos con el aceite y extiéndelos en una charola sin amontonarlos. Hornea 20 minutos y mueve la charola a la mitad para que se doren uniformemente."
+      },
+      {
+        "title": "Añade las especias",
+        "text": "Saca la charola con cuidado. Espolvorea comino, paprika, ajo y sal; mezcla y devuelve al horno de 10 a 15 minutos, hasta que estén dorados."
+      },
+      {
+        "title": "Deja enfriar",
+        "text": "Enfría sobre la charola durante 5 minutos antes de servir. Reparte en tres porciones. Están más crujientes el mismo día; no los tapes mientras sigan calientes."
+      }
+    ],
+    "tip": "El secado inicial hace la diferencia. Si siguen blandos, hornea unos minutos más vigilando que no se quemen.",
+    "imageSubject": "A small bowl of golden roasted crispy chickpeas dusted with cumin and paprika, dry crunchy texture, no hummus"
+  },
+  {
+    "id": "yogur-helado-frutos",
+    "category": "snacks",
+    "name": "Bark de yogur y frutos rojos",
+    "description": "Una lámina helada de yogur con fruta y almendras, para romper en pequeños bocados.",
+    "minutes": 190,
+    "servings": 4,
+    "tags": [
+      "Vegetariano",
+      "Sin horno"
+    ],
+    "highlights": "Yogur · fresa · arándano · almendra",
+    "ingredients": [
+      "1½ tazas de yogur griego natural sin azúcar",
+      "½ taza de fresas lavadas y desinfectadas",
+      "¼ de taza de arándanos lavados y desinfectados",
+      "2 cucharadas de almendras picadas",
+      "½ cucharadita de vainilla"
+    ],
+    "steps": [
+      {
+        "title": "Prepara la base",
+        "text": "Forra una charola pequeña que quepa en el congelador con papel para hornear. Mezcla el yogur con la vainilla."
+      },
+      {
+        "title": "Extiende y cubre",
+        "text": "Vierte el yogur sobre el papel y extiéndelo con una espátula a unos 8 mm de grosor. Corta las fresas en láminas y repártelas junto con los arándanos y las almendras."
+      },
+      {
+        "title": "Congela",
+        "text": "Lleva al congelador por al menos 3 horas, hasta que la lámina esté completamente firme. Evita una capa demasiado gruesa, porque será difícil romperla."
+      },
+      {
+        "title": "Parte y sirve",
+        "text": "Levanta el papel, rompe la lámina en trozos y divide en cuatro porciones. Sirve recién salida del congelador; guarda el resto en un recipiente cerrado, también congelado."
+      }
+    ],
+    "tip": "El tiempo incluye la congelación. Se derrite rápido: sirve solo la cantidad que vayas a comer.",
+    "imageSubject": "Broken irregular pieces of frozen white yogurt bark embedded with strawberry slices, blueberries and chopped almonds on a pale plate, no chocolate"
+  },
+  {
+    "id": "tostaditas-cottage",
+    "category": "snacks",
+    "name": "Tostaditas de cottage y tomate",
+    "description": "Pan integral con queso cottage, tomate y albahaca fresca en bocados pequeños.",
+    "minutes": 10,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Rápido"
+    ],
+    "highlights": "Pan integral · cottage · tomate · albahaca",
+    "ingredients": [
+      "2 rebanadas de pan integral",
+      "½ taza de queso cottage pasteurizado",
+      "1 tomate mediano",
+      "4 hojas de albahaca lavadas y desinfectadas",
+      "½ cucharadita de aceite de oliva",
+      "Pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Tuesta el pan",
+        "text": "Tuesta las rebanadas en un comal seco o tostador hasta que estén firmes y ligeramente doradas. Corta cada una en dos triángulos."
+      },
+      {
+        "title": "Prepara el tomate",
+        "text": "Lava el tomate y córtalo en rebanadas delgadas. Sécalas ligeramente si tienen mucho jugo para evitar humedecer el pan."
+      },
+      {
+        "title": "Monta los bocados",
+        "text": "Reparte el cottage sobre los cuatro triángulos. Coloca el tomate encima y distribuye la albahaca cortada con las manos."
+      },
+      {
+        "title": "Termina y sirve",
+        "text": "Añade el aceite y la pimienta. Sirve dos triángulos por persona inmediatamente para conservar el pan crujiente."
+      }
+    ],
+    "tip": "El cottage también funciona sobre tostadas horneadas de maíz.",
+    "imageSubject": "Four small whole grain toast triangles topped with white cottage cheese, red tomato slices and basil leaves, ivory plate"
+  },
+  {
+    "id": "brochetas-fruta",
+    "category": "snacks",
+    "name": "Brochetas de fruta con yogur",
+    "description": "Fruta fresca en brochetas y un dip de yogur con vainilla, sin azúcar añadida.",
+    "minutes": 15,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Sin cocción"
+    ],
+    "highlights": "Fresa · melón · uva · yogur",
+    "ingredients": [
+      "6 fresas grandes",
+      "1 taza de melón en cubos",
+      "12 uvas sin semilla",
+      "½ taza de yogur natural sin azúcar",
+      "¼ de cucharadita de vainilla",
+      "4 palitos de brocheta"
+    ],
+    "steps": [
+      {
+        "title": "Lava la fruta",
+        "text": "Lava y desinfecta las fresas y las uvas. Lava el exterior del melón antes de cortarlo. Seca la fruta con cuidado para que no resbale al insertarla."
+      },
+      {
+        "title": "Corta en porciones",
+        "text": "Retira las hojas de las fresas y córtalas por la mitad si son muy grandes. Corta el melón en cubos de unos 2 cm, del tamaño de un bocado."
+      },
+      {
+        "title": "Arma las brochetas",
+        "text": "Alterna fresas, melón y uvas en los cuatro palitos, dejando espacio para sujetarlos. Inserta las piezas despacio para evitar que se rompan."
+      },
+      {
+        "title": "Prepara el dip",
+        "text": "Mezcla el yogur con la vainilla y sírvelo en un recipiente pequeño. Reparte dos brochetas por persona y conserva refrigerado hasta servir."
+      }
+    ],
+    "tip": "Si prefieres, omite los palitos y sirve la fruta en un tazón con el yogur aparte.",
+    "imageSubject": "Four fruit skewers with strawberries, orange cantaloupe cubes and green grapes beside a small cup of plain yogurt dip, ivory platter"
+  },
+  {
+    "id": "chips-camote",
+    "category": "snacks",
+    "name": "Chips de camote al romero",
+    "description": "Rodajas finas de camote horneadas, con romero y un toque de aceite de oliva.",
+    "minutes": 35,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Al horno"
+    ],
+    "highlights": "Camote · romero · oliva",
+    "ingredients": [
+      "1 camote mediano de unos 250 g",
+      "2 cucharaditas de aceite de oliva",
+      "½ cucharadita de romero seco",
+      "1 pizca de sal"
+    ],
+    "steps": [
+      {
+        "title": "Corta muy fino",
+        "text": "Precalienta el horno a 180 °C. Lava el camote y córtalo en rodajas de 1 a 2 mm con un cuchillo afilado o mandolina, usando su protector."
+      },
+      {
+        "title": "Seca y sazona",
+        "text": "Seca las rodajas con un paño limpio. Mézclalas con el aceite, el romero y la sal hasta que queden apenas cubiertas."
+      },
+      {
+        "title": "Hornea por tandas",
+        "text": "Extiende las rodajas en una sola capa sobre papel para hornear. Hornea de 20 a 25 minutos, volteando a la mitad. Retira primero las que ya estén doradas para que no se quemen."
+      },
+      {
+        "title": "Enfría para servir",
+        "text": "Deja las chips sobre una rejilla durante 5 minutos. Se afirman al enfriarse. Divide en dos porciones y sirve el mismo día."
+      }
+    ],
+    "tip": "El grosor uniforme ayuda a que todas se cocinen al mismo tiempo; revisa seguido los bordes.",
+    "imageSubject": "Thin crisp orange sweet potato chips with tiny rosemary flecks in an ivory bowl, no dip or potato chips"
+  },
+  {
+    "id": "rollitos-pepino-atun",
+    "category": "snacks",
+    "name": "Rollitos de pepino con atún",
+    "description": "Láminas frescas de pepino rellenas de atún y yogur, en bocados sin cocción.",
+    "minutes": 15,
+    "servings": 2,
+    "tags": [
+      "Con atún",
+      "Sin cocción"
+    ],
+    "highlights": "Pepino · atún · yogur · limón",
+    "ingredients": [
+      "1 pepino grande",
+      "1 lata de atún en agua, unos 120 g escurridos",
+      "2 cucharadas de yogur natural sin azúcar",
+      "1 cucharadita de jugo de limón",
+      "1 cucharada de cebolla finamente picada",
+      "Pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta las láminas",
+        "text": "Lava el pepino y corta láminas largas con un pelador. Usa las partes firmes de los lados; reserva el centro con semillas para otra preparación."
+      },
+      {
+        "title": "Seca el pepino",
+        "text": "Coloca las láminas sobre un paño limpio y sécalas suavemente. Deben ser flexibles y no estar mojadas para sostener el relleno."
+      },
+      {
+        "title": "Mezcla el atún",
+        "text": "Escurre muy bien el atún. Mézclalo con el yogur, el limón, la cebolla y la pimienta. Deshaz los trozos grandes con un tenedor."
+      },
+      {
+        "title": "Forma los rollitos",
+        "text": "Pon una cucharadita de relleno en un extremo de cada lámina y enrolla con cuidado. Acomoda con el cierre hacia abajo y sirve frío, repartido entre dos personas."
+      }
+    ],
+    "tip": "Evita rellenarlos demasiado. Si alguna lámina se rompe, úsala como base de un bocado abierto.",
+    "imageSubject": "Small cucumber ribbon rolls filled with creamy canned tuna and yogurt salad, visible pale tuna centers, arranged on an ivory plate, no rice or sushi"
+  },
+  {
+    "id": "pollo-arroz-verduras",
+    "category": "comidas",
+    "name": "Pollo al limón con arroz integral",
+    "description": "Pechuga dorada, arroz integral y verduras salteadas para una comida sencilla y completa.",
+    "minutes": 50,
+    "servings": 2,
+    "tags": [
+      "Con pollo",
+      "En sartén"
+    ],
+    "highlights": "Pollo · arroz integral · brócoli · limón",
+    "ingredients": [
+      "300 g de pechuga de pollo sin piel",
+      "½ taza de arroz integral crudo",
+      "1¼ tazas de agua para el arroz",
+      "1 taza de brócoli en floretes",
+      "1 zanahoria",
+      "2 cucharaditas de aceite de oliva",
+      "2 cucharadas de jugo de limón",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Cocina el arroz",
+        "text": "Enjuaga el arroz y ponlo en una olla con el agua. Lleva a ebullición, tapa y cocina a fuego bajo de 30 a 40 minutos, según el paquete. Deja reposar tapado 5 minutos."
+      },
+      {
+        "title": "Prepara los acompañamientos",
+        "text": "Lava el brócoli y corta la zanahoria en medias lunas finas. Cocina ambos al vapor de 5 a 7 minutos. Divide la pechuga en dos filetes de grosor similar y sazona con orégano, sal y pimienta."
+      },
+      {
+        "title": "Dora el pollo",
+        "text": "Calienta el aceite en una sartén a fuego medio. Cocina los filetes de 5 a 7 minutos por lado, según su grosor, hasta alcanzar 74 °C en el centro con un termómetro. Añade el limón al final."
+      },
+      {
+        "title": "Sirve las porciones",
+        "text": "Deja reposar el pollo 3 minutos y córtalo en rebanadas. Reparte el arroz y las verduras en dos platos, agrega el pollo y vierte encima los jugos de la sartén."
+      }
+    ],
+    "tip": "El tiempo del arroz cambia según la variedad; empieza por él y cocina el pollo mientras termina.",
+    "imageSubject": "Sliced cooked lemon chicken breast alongside brown rice, steamed broccoli and carrot slices, ivory dinner plate, no cream sauce"
+  },
+  {
+    "id": "lentejas-espinaca",
+    "category": "comidas",
+    "name": "Lentejas guisadas con espinaca",
+    "description": "Un guiso de lentejas con tomate, zanahoria y hojas verdes, hecho en una sola olla.",
+    "minutes": 45,
+    "servings": 3,
+    "tags": [
+      "Vegetal",
+      "Una sola olla"
+    ],
+    "highlights": "Lentejas · espinaca · tomate · zanahoria",
+    "ingredients": [
+      "¾ de taza de lentejas secas",
+      "3 tazas de agua",
+      "2 tomates medianos",
+      "1 zanahoria",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "2 tazas de espinaca lavada y desinfectada",
+      "1 cucharadita de aceite de oliva",
+      "½ cucharadita de comino",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Revisa las lentejas",
+        "text": "Extiende las lentejas, retira piedras o residuos y enjuágalas. Pica la cebolla y el ajo; corta el tomate y la zanahoria en cubos pequeños."
+      },
+      {
+        "title": "Prepara el sofrito",
+        "text": "Calienta el aceite en una olla. Cocina la cebolla y la zanahoria a fuego medio durante 4 minutos. Añade el ajo y el comino por 30 segundos, después el tomate por 3 minutos."
+      },
+      {
+        "title": "Cuece las lentejas",
+        "text": "Agrega las lentejas y el agua. Cuando hierva, baja el fuego y cocina con la tapa entreabierta de 25 a 30 minutos, hasta que estén tiernas. Añade agua caliente si el guiso se seca antes de tiempo."
+      },
+      {
+        "title": "Incorpora la espinaca",
+        "text": "Añade la espinaca, la sal y la pimienta. Cocina 2 minutos más, hasta que las hojas se ablanden. Sirve en tres tazones; ajusta el caldo a la consistencia que prefieras."
+      }
+    ],
+    "tip": "Las lentejas rojas se deshacen más; usa verdes o pardinas si quieres conservar los granos enteros.",
+    "imageSubject": "A deep ivory bowl of brown lentil stew with diced carrot, tomato and wilted green spinach in a tomato broth, no meat"
+  },
+  {
+    "id": "salmon-camote",
+    "category": "comidas",
+    "name": "Salmón al horno con camote y ejotes",
+    "description": "Salmón con limón y mostaza, acompañado de camote dorado y ejotes tiernos.",
+    "minutes": 40,
+    "servings": 2,
+    "tags": [
+      "Con pescado",
+      "Al horno"
+    ],
+    "highlights": "Salmón · camote · ejotes · mostaza",
+    "ingredients": [
+      "2 filetes de salmón de 140 g cada uno",
+      "1 camote mediano",
+      "200 g de ejotes",
+      "2 cucharaditas de aceite de oliva",
+      "1 cucharadita de mostaza Dijon",
+      "1 cucharada de jugo de limón",
+      "½ cucharadita de ajo en polvo",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Empieza por el camote",
+        "text": "Precalienta el horno a 200 °C. Lava y corta el camote en cubos de 2 cm. Mézclalo con una cucharadita de aceite, ajo y sal; extiende en una charola y hornea 15 minutos."
+      },
+      {
+        "title": "Prepara el salmón",
+        "text": "Mezcla mostaza, limón y la otra cucharadita de aceite. Seca los filetes y úntalos con esa mezcla. Lava los ejotes y corta sus extremos."
+      },
+      {
+        "title": "Completa la charola",
+        "text": "Mueve el camote y acomoda el salmón y los ejotes en la charola, sin encimarlos. Hornea de 12 a 15 minutos más, hasta que el pescado alcance 63 °C en el centro y el camote esté tierno."
+      },
+      {
+        "title": "Reparte y sirve",
+        "text": "Deja reposar 2 minutos. Sirve un filete por persona con la mitad del camote y de los ejotes. Añade pimienta al gusto."
+      }
+    ],
+    "tip": "Si los ejotes son gruesos, hiérvelos 3 minutos antes de meterlos al horno.",
+    "imageSubject": "One baked salmon fillet with roasted orange sweet potato cubes and green beans on an ivory plate, light lemon mustard glaze, no rice"
+  },
+  {
+    "id": "pasta-integral-atun",
+    "category": "comidas",
+    "name": "Pasta integral con atún y tomate",
+    "description": "Pasta corta con salsa de tomate, atún y calabacita, sin crema y con mucho sabor.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Con atún",
+      "Rápido"
+    ],
+    "highlights": "Pasta integral · atún · tomate · calabacita",
+    "ingredients": [
+      "140 g de pasta integral corta",
+      "1 lata de atún en agua, 120 g escurridos",
+      "3 tomates maduros",
+      "1 calabacita mediana",
+      "1 diente de ajo",
+      "2 cucharaditas de aceite de oliva",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Cuece la pasta",
+        "text": "Hierve agua en una olla y cocina la pasta según el paquete hasta que esté al dente. Antes de escurrir, reserva ½ taza del agua de cocción."
+      },
+      {
+        "title": "Prepara la salsa",
+        "text": "Ralla o licúa los tomates. Pica el ajo y corta la calabacita en cubos. Calienta el aceite, cocina el ajo 30 segundos y añade el tomate y el orégano; cocina 7 minutos a fuego medio."
+      },
+      {
+        "title": "Añade los ingredientes",
+        "text": "Incorpora la calabacita y cocina 4 minutos, hasta que esté tierna. Añade el atún escurrido y desmenuzado, mezclando con suavidad."
+      },
+      {
+        "title": "Integra y sirve",
+        "text": "Agrega la pasta a la salsa. Añade el agua reservada de una cucharada a la vez si necesita humedad y calienta 1 minuto. Ajusta sal y pimienta y reparte en dos platos."
+      }
+    ],
+    "tip": "Escurre el atún antes de agregarlo; la salsa debe cubrir la pasta sin quedar aguada.",
+    "imageSubject": "Whole wheat penne pasta with red tomato sauce, flaked canned tuna and diced green zucchini in an ivory shallow bowl, no cheese or cream"
+  },
+  {
+    "id": "fajitas-res-pimientos",
+    "category": "comidas",
+    "name": "Fajitas de res con pimientos",
+    "description": "Tiras de res salteadas con pimientos de colores, cebolla y tortillas calientes.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Con res",
+      "En sartén"
+    ],
+    "highlights": "Res · pimiento · cebolla · maíz",
+    "ingredients": [
+      "250 g de bistec de res magro",
+      "1 pimiento rojo",
+      "1 pimiento verde",
+      "½ cebolla",
+      "4 tortillas de maíz",
+      "2 cucharaditas de aceite de oliva",
+      "1 cucharada de jugo de limón",
+      "½ cucharadita de comino",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta los ingredientes",
+        "text": "Lava los pimientos y retira las semillas. Córtalos junto con la cebolla en tiras. Corta la carne en tiras delgadas, en sentido contrario a sus fibras, y sazona con comino, sal y pimienta."
+      },
+      {
+        "title": "Saltea los vegetales",
+        "text": "Calienta una cucharadita de aceite en una sartén amplia. Cocina los pimientos y la cebolla de 6 a 8 minutos a fuego medio alto, moviendo para que se doren. Retira a un plato."
+      },
+      {
+        "title": "Cocina la carne",
+        "text": "Añade el aceite restante y cocina la res en una capa, por tandas si hace falta. Dora por ambos lados hasta alcanzar al menos 63 °C; retira del fuego y deja reposar 3 minutos."
+      },
+      {
+        "title": "Combina y sirve",
+        "text": "Mezcla la carne con los vegetales y el limón. Calienta las tortillas en un comal y sirve la mitad de las fajitas con dos tortillas por persona."
+      }
+    ],
+    "tip": "Una sartén amplia ayuda a dorar la carne; si está muy llena, cocinará al vapor.",
+    "imageSubject": "Cooked lean beef strips sautéed with red and green bell pepper strips and onion, two corn tortillas beside them, ivory plate, no cheese"
+  },
+  {
+    "id": "tofu-brocoli",
+    "category": "comidas",
+    "name": "Tofu dorado con brócoli y arroz",
+    "description": "Cubos de tofu con una salsa ligera de soya y jengibre, acompañados de brócoli y arroz integral.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "En sartén"
+    ],
+    "highlights": "Tofu · brócoli · arroz integral · jengibre",
+    "ingredients": [
+      "250 g de tofu firme",
+      "2 tazas de brócoli en floretes",
+      "1 taza de arroz integral ya cocido",
+      "2 cucharaditas de aceite de oliva",
+      "1 cucharada de salsa de soya reducida en sodio",
+      "1 cucharadita de jengibre fresco rallado",
+      "1 diente de ajo",
+      "2 cucharadas de agua",
+      "1 cucharadita de ajonjolí"
+    ],
+    "steps": [
+      {
+        "title": "Seca el tofu",
+        "text": "Escurre el tofu, envuélvelo en un paño limpio y presiónalo suavemente para extraer agua. Córtalo en cubos de 2 cm. Lava el brócoli y pica el ajo."
+      },
+      {
+        "title": "Dora los cubos",
+        "text": "Calienta el aceite en una sartén antiadherente a fuego medio alto. Acomoda el tofu en una capa y cocina de 3 a 4 minutos por lado, volteando con cuidado. Retira cuando tenga bordes dorados."
+      },
+      {
+        "title": "Cocina el brócoli",
+        "text": "En la misma sartén añade brócoli y agua. Tapa y cocina 3 minutos. Destapa, agrega ajo y jengibre y mueve durante 30 segundos."
+      },
+      {
+        "title": "Añade la salsa",
+        "text": "Devuelve el tofu, incorpora la salsa de soya y mezcla 1 minuto. Calienta aparte el arroz ya cocido hasta que esté humeante. Reparte todo en dos bowls y termina con ajonjolí."
+      }
+    ],
+    "tip": "El tiempo supone arroz previamente cocido; si lo preparas desde cero, añade el tiempo indicado en su paquete.",
+    "imageSubject": "Golden browned tofu cubes and vibrant broccoli with sesame seeds served over brown rice in an ivory bowl, light soy ginger glaze, no meat"
+  },
+  {
+    "id": "ensalada-mediterranea",
+    "category": "comidas",
+    "name": "Ensalada mediterránea de alubias",
+    "description": "Alubias, pepino, tomate y queso feta con un aderezo sencillo de limón.",
+    "minutes": 15,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Sin cocción"
+    ],
+    "highlights": "Alubias · pepino · tomate · feta",
+    "ingredients": [
+      "1½ tazas de alubias blancas cocidas y escurridas",
+      "1 pepino pequeño",
+      "1 taza de tomates cherry",
+      "¼ de cebolla morada",
+      "40 g de queso feta pasteurizado",
+      "6 aceitunas sin hueso",
+      "1 cucharada de aceite de oliva",
+      "2 cucharadas de jugo de limón",
+      "½ cucharadita de orégano",
+      "Pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Enjuaga las alubias",
+        "text": "Si usas alubias de lata, escúrrelas y enjuágalas. Déjalas en el colador mientras preparas las verduras para eliminar el exceso de agua."
+      },
+      {
+        "title": "Corta los vegetales",
+        "text": "Lava el pepino y los tomates. Corta el pepino en cubos, los tomates por la mitad, la cebolla en láminas finas y las aceitunas en rodajas."
+      },
+      {
+        "title": "Prepara el aderezo",
+        "text": "Bate el aceite, el limón, el orégano y la pimienta. Prueba antes de añadir sal: el feta y las aceitunas ya aportan sabor salado."
+      },
+      {
+        "title": "Mezcla y sirve",
+        "text": "Combina las alubias y los vegetales, vierte el aderezo y mezcla sin aplastar los granos. Desmorona el feta encima y reparte en dos platos."
+      }
+    ],
+    "tip": "Para suavizar la cebolla, déjala 5 minutos en agua fría y escúrrela antes de mezclar.",
+    "imageSubject": "Mediterranean white bean salad with cucumber cubes, cherry tomato halves, red onion, a few olives and modest crumbled feta, ivory bowl"
+  },
+  {
+    "id": "albondigas-pavo",
+    "category": "comidas",
+    "name": "Albóndigas de pavo en salsa de tomate",
+    "description": "Albóndigas suaves con avena y una salsa casera de tomate, servidas con arroz integral.",
+    "minutes": 40,
+    "servings": 3,
+    "tags": [
+      "Con pavo",
+      "En salsa"
+    ],
+    "highlights": "Pavo · avena · tomate · arroz",
+    "ingredients": [
+      "350 g de pavo molido",
+      "¼ de taza de hojuelas de avena",
+      "1 huevo",
+      "4 tomates maduros",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "1 cucharadita de aceite de oliva",
+      "½ cucharadita de orégano",
+      "½ taza de agua",
+      "1½ tazas de arroz integral ya cocido",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Haz la salsa",
+        "text": "Licúa tomate, cebolla, ajo y agua. Calienta el aceite en una olla amplia y vierte la salsa. Añade orégano y cocina 8 minutos a fuego medio, removiendo ocasionalmente."
+      },
+      {
+        "title": "Forma las albóndigas",
+        "text": "Mezcla pavo, avena, huevo, sal y pimienta con un tenedor. Con las manos limpias forma 12 albóndigas similares, sin comprimir demasiado la carne."
+      },
+      {
+        "title": "Cocina en la salsa",
+        "text": "Coloca las albóndigas en la salsa hirviendo suavemente. Tapa y cocina de 18 a 22 minutos, girándolas con cuidado a la mitad. Comprueba que el centro de las más grandes alcance 74 °C."
+      },
+      {
+        "title": "Sirve con arroz",
+        "text": "Calienta el arroz ya cocido hasta que esté humeante. Reparte cuatro albóndigas y media taza de arroz por persona, con salsa de tomate encima."
+      }
+    ],
+    "tip": "No remuevas la olla al principio: deja que la superficie de las albóndigas se afirme antes de moverlas.",
+    "imageSubject": "Four cooked turkey meatballs in red tomato sauce alongside brown rice on an ivory plate, no cheese topping"
+  },
+  {
+    "id": "berenjena-lentejas",
+    "category": "comidas",
+    "name": "Berenjenas rellenas de lentejas",
+    "description": "Berenjena al horno con un relleno de lentejas, tomate y zanahoria.",
+    "minutes": 50,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Al horno"
+    ],
+    "highlights": "Berenjena · lentejas · tomate · zanahoria",
+    "ingredients": [
+      "1 berenjena grande",
+      "1 taza de lentejas ya cocidas y escurridas",
+      "2 tomates medianos",
+      "1 zanahoria pequeña",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "2 cucharaditas de aceite de oliva",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Hornea la berenjena",
+        "text": "Precalienta el horno a 200 °C. Lava la berenjena y córtala a lo largo. Haz cortes superficiales en la pulpa, unta una cucharadita de aceite y hornea con la pulpa hacia arriba de 25 a 30 minutos."
+      },
+      {
+        "title": "Prepara el sofrito",
+        "text": "Pica la cebolla y el ajo; ralla la zanahoria y corta el tomate en cubos. Calienta el aceite restante y cocina cebolla y zanahoria 4 minutos. Añade ajo, tomate y orégano; cocina 5 minutos."
+      },
+      {
+        "title": "Mezcla el relleno",
+        "text": "Cuando la berenjena esté tierna, retira parte de su pulpa con una cuchara sin romper la piel. Pícala y añádela al sofrito con las lentejas. Sazona y cocina 3 minutos."
+      },
+      {
+        "title": "Rellena y termina",
+        "text": "Reparte la mezcla dentro de las dos mitades. Hornea 10 minutos más, hasta que estén calientes y ligeramente doradas. Sirve una mitad por persona."
+      }
+    ],
+    "tip": "Las lentejas deben estar cocidas antes de empezar; el tiempo indicado no incluye cocerlas desde secas.",
+    "imageSubject": "Two roasted eggplant halves filled with brown lentils, tomato and finely grated carrot, ivory platter, no cheese or meat"
+  },
+  {
+    "id": "coliflor-camarones",
+    "category": "comidas",
+    "name": "Arroz de coliflor con camarones",
+    "description": "Coliflor picada al estilo arroz, con camarones, chícharos y zanahoria.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Con mariscos",
+      "En sartén"
+    ],
+    "highlights": "Coliflor · camarón · zanahoria · chícharos",
+    "ingredients": [
+      "300 g de camarones crudos pelados y limpios",
+      "3 tazas de coliflor en floretes",
+      "1 zanahoria pequeña",
+      "½ taza de chícharos congelados",
+      "1 diente de ajo",
+      "2 cucharaditas de aceite de oliva",
+      "1 cucharada de salsa de soya reducida en sodio",
+      "1 cucharada de jugo de limón"
+    ],
+    "steps": [
+      {
+        "title": "Pica la coliflor",
+        "text": "Lava la coliflor y sécala. Procesa en pulsos o rállala por la parte gruesa del rallador hasta obtener trozos del tamaño de granos de arroz, sin hacer puré."
+      },
+      {
+        "title": "Cocina los camarones",
+        "text": "Seca los camarones. Calienta una cucharadita de aceite y cocina de 2 a 3 minutos por lado, hasta que estén firmes y opacos. Retira a un plato limpio."
+      },
+      {
+        "title": "Saltea los vegetales",
+        "text": "Pica la zanahoria en cubos muy pequeños y el ajo finamente. Añade el aceite restante a la sartén; cocina la zanahoria 3 minutos, el ajo 30 segundos y después la coliflor y los chícharos durante 5 minutos."
+      },
+      {
+        "title": "Combina los sabores",
+        "text": "Devuelve los camarones, incorpora soya y limón y mezcla durante 1 minuto. Reparte en dos bowls. No tapes la sartén al final para evitar que la coliflor se humedezca demasiado."
+      }
+    ],
+    "tip": "Si usas camarones congelados, descongélalos en el refrigerador y sécalos antes de cocinar.",
+    "imageSubject": "Finely chopped cauliflower rice with cooked pink shrimp, green peas and small carrot cubes in an ivory bowl, no actual rice"
+  },
+  {
+    "id": "curry-garbanzos",
+    "category": "comidas",
+    "name": "Curry suave de garbanzos y espinaca",
+    "description": "Garbanzos en una salsa especiada de tomate y coco ligero, con espinaca y arroz.",
+    "minutes": 30,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Una sola olla"
+    ],
+    "highlights": "Garbanzos · espinaca · tomate · curry",
+    "ingredients": [
+      "1½ tazas de garbanzos cocidos y escurridos",
+      "2 tomates maduros",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "1 cucharadita de jengibre rallado",
+      "1 cucharadita de curry en polvo",
+      "⅓ de taza de leche de coco ligera sin azúcar",
+      "½ taza de agua",
+      "2 tazas de espinaca lavada y desinfectada",
+      "1 cucharadita de aceite de oliva",
+      "1 taza de arroz integral ya cocido",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara el sofrito",
+        "text": "Pica la cebolla, el ajo y los tomates. Calienta el aceite en una olla y cocina la cebolla 3 minutos. Añade ajo, jengibre y curry y remueve durante 30 segundos."
+      },
+      {
+        "title": "Forma la salsa",
+        "text": "Agrega los tomates y cocina 5 minutos hasta que se ablanden. Incorpora la leche de coco y el agua, mezclando para desprender el sofrito del fondo."
+      },
+      {
+        "title": "Cuece el curry",
+        "text": "Añade los garbanzos y una pizca de sal. Cocina a hervor suave de 10 a 12 minutos, removiendo de vez en cuando. Si espesa demasiado, añade un poco de agua."
+      },
+      {
+        "title": "Termina con espinaca",
+        "text": "Incorpora la espinaca y cocina 2 minutos. Calienta aparte el arroz ya cocido hasta que esté humeante y sirve media taza por persona con la mitad del curry."
+      }
+    ],
+    "tip": "El curry en polvo cambia de intensidad según la marca; empieza con la cantidad indicada y ajusta al final.",
+    "imageSubject": "Chickpea spinach curry in warm golden tomato coconut sauce with brown rice on the side, ivory shallow bowl, no meat or naan"
+  },
+  {
+    "id": "pozole-pollo",
+    "category": "comidas",
+    "name": "Pozole rojo de pollo",
+    "description": "Un pozole casero con pollo, maíz y verduras frescas, preparado con maíz ya cocido.",
+    "minutes": 55,
+    "servings": 4,
+    "tags": [
+      "Con pollo",
+      "En olla"
+    ],
+    "highlights": "Pollo · maíz pozolero · guajillo · lechuga",
+    "ingredients": [
+      "400 g de pechuga de pollo sin piel",
+      "2 tazas de maíz pozolero ya cocido y enjuagado",
+      "3 chiles guajillo secos",
+      "½ cebolla",
+      "2 dientes de ajo",
+      "6 tazas de agua",
+      "1 cucharadita de orégano",
+      "2 tazas de lechuga lavada y desinfectada",
+      "4 rábanos lavados",
+      "2 limones",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Cuece el pollo",
+        "text": "Pon el pollo, un cuarto de cebolla, un diente de ajo y el agua en una olla. Lleva a hervor suave y cocina de 20 a 25 minutos, hasta que el pollo alcance 74 °C. Retira, deshebra con tenedores y reserva el caldo."
+      },
+      {
+        "title": "Prepara los chiles",
+        "text": "Retira tallos y semillas de los guajillos. Hiérvelos 8 minutos en una olla pequeña y déjalos ablandar 5 minutos. Licúa con la cebolla y el ajo restantes y una taza del caldo reservado."
+      },
+      {
+        "title": "Integra el pozole",
+        "text": "Cuela la salsa sobre el caldo, añade el maíz ya cocido, el pollo deshebrado y el orégano. Cocina 15 minutos a hervor suave y ajusta la sal."
+      },
+      {
+        "title": "Añade lo fresco",
+        "text": "Corta la lechuga en tiras y los rábanos en rebanadas finas. Sirve el pozole en cuatro tazones y acompaña con lechuga, rábanos y limón al gusto."
+      }
+    ],
+    "tip": "Usa maíz etiquetado como cocido o listo para servir; el maíz seco necesita un proceso mucho más largo.",
+    "imageSubject": "A bowl of red chicken pozole with white hominy kernels and shredded chicken in red guajillo broth, topped with shredded lettuce and sliced radish, lime wedge beside it"
+  },
+  {
+    "id": "crema-calabaza",
+    "category": "cenas",
+    "name": "Crema de calabaza y zanahoria",
+    "description": "Una sopa suave sin crema, con calabaza, zanahoria y un toque de jengibre.",
+    "minutes": 35,
+    "servings": 2,
+    "tags": [
+      "Vegetal",
+      "Una sola olla"
+    ],
+    "highlights": "Calabaza · zanahoria · jengibre · pepitas",
+    "ingredients": [
+      "400 g de calabaza de Castilla pelada y sin semillas",
+      "1 zanahoria mediana",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "½ cucharadita de jengibre rallado",
+      "2½ tazas de agua",
+      "1 cucharadita de aceite de oliva",
+      "1 cucharada de semillas de calabaza",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta los vegetales",
+        "text": "Corta la calabaza y la zanahoria en cubos de 2 cm. Pica la cebolla y el ajo. Usa una tabla estable para trabajar la calabaza firme."
+      },
+      {
+        "title": "Cocina la sopa",
+        "text": "Calienta el aceite en una olla y cocina la cebolla 3 minutos. Añade ajo y jengibre durante 30 segundos, después calabaza, zanahoria y agua. Tapa y cocina 20 minutos a hervor suave, hasta que todo esté tierno."
+      },
+      {
+        "title": "Licúa con cuidado",
+        "text": "Apaga el fuego y deja bajar la temperatura unos minutos. Licúa en tandas sin llenar demasiado el vaso y dejando salir el vapor según las instrucciones del aparato, o usa una licuadora de inmersión."
+      },
+      {
+        "title": "Ajusta y sirve",
+        "text": "Devuelve la crema a la olla, añade sal y pimienta y calienta a fuego bajo. Agrega agua si la prefieres más ligera. Sirve en dos tazones y termina con las semillas de calabaza."
+      }
+    ],
+    "tip": "La calabaza aporta la textura cremosa sin necesitar lácteos.",
+    "imageSubject": "Smooth orange pumpkin carrot soup in an ivory bowl topped only with green pumpkin seeds, no cream swirl"
+  },
+  {
+    "id": "ensalada-atun-alubias",
+    "category": "cenas",
+    "name": "Ensalada de atún y alubias",
+    "description": "Atún, alubias y hojas verdes con limón, para una cena rápida y fresca.",
+    "minutes": 15,
+    "servings": 2,
+    "tags": [
+      "Con atún",
+      "Sin cocción"
+    ],
+    "highlights": "Atún · alubias · lechuga · limón",
+    "ingredients": [
+      "1 lata de atún en agua, unos 120 g escurridos",
+      "1 taza de alubias blancas cocidas",
+      "2 tazas de lechuga lavada y desinfectada",
+      "½ pepino",
+      "¼ de cebolla morada",
+      "1 cucharada de aceite de oliva",
+      "2 cucharadas de jugo de limón",
+      "Pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Escurre las bases",
+        "text": "Escurre el atún y desmenúzalo con un tenedor. Enjuaga las alubias si son de lata y deja escurrir para que el aderezo no se diluya."
+      },
+      {
+        "title": "Prepara los vegetales",
+        "text": "Seca la lechuga y trocéala con las manos. Lava el pepino y córtalo en medias lunas; corta la cebolla en láminas finas."
+      },
+      {
+        "title": "Mezcla el aderezo",
+        "text": "Bate el aceite, el limón y la pimienta en un recipiente pequeño. Prueba antes de añadir sal, ya que el atún puede aportar suficiente."
+      },
+      {
+        "title": "Arma la ensalada",
+        "text": "Coloca la lechuga como base, añade pepino, cebolla, alubias y atún. Vierte el aderezo y mezcla suavemente. Reparte en dos platos y sirve fría."
+      }
+    ],
+    "tip": "Si la preparas con anticipación, guarda la lechuga y el aderezo aparte hasta servir.",
+    "imageSubject": "Fresh lettuce salad with white beans, visibly flaked tuna, cucumber half moons and red onion, ivory bowl, no feta or olives"
+  },
+  {
+    "id": "tortilla-espinaca",
+    "category": "cenas",
+    "name": "Tortilla de espinaca y champiñones",
+    "description": "Una tortilla de huevo gruesa con verduras, dorada por fuera y suave por dentro.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "En sartén"
+    ],
+    "highlights": "Huevo · espinaca · champiñón · cebolla",
+    "ingredients": [
+      "4 huevos",
+      "150 g de champiñones",
+      "2 tazas de espinaca lavada y desinfectada",
+      "¼ de cebolla",
+      "2 cucharaditas de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara las verduras",
+        "text": "Limpia los champiñones y córtalos en láminas. Pica la cebolla y seca la espinaca. Bate los huevos con sal y pimienta en un recipiente aparte."
+      },
+      {
+        "title": "Evapora el líquido",
+        "text": "Calienta una cucharadita de aceite en una sartén antiadherente de unos 20 cm. Cocina la cebolla 3 minutos y los champiñones 5 minutos. Añade la espinaca y cocina 2 minutos, hasta que se evapore el líquido."
+      },
+      {
+        "title": "Cuaja la tortilla",
+        "text": "Añade el aceite restante y vierte los huevos. Distribuye las verduras, tapa y cocina a fuego bajo de 6 a 8 minutos, hasta que los bordes estén firmes y el centro casi cuajado."
+      },
+      {
+        "title": "Voltea y termina",
+        "text": "Desliza la tortilla sobre un plato, invierte la sartén encima y voltea con cuidado. Cocina otros 2 a 3 minutos, hasta que no quede huevo líquido. Corta en cuatro cuartos y sirve dos por persona."
+      }
+    ],
+    "tip": "Si prefieres no voltearla, mantén el fuego bajo y la tapa puesta hasta que el centro se cuaje por completo.",
+    "imageSubject": "Two thick wedges of fully cooked spinach mushroom egg tortilla with green spinach and sliced mushrooms visible in cross section, ivory plate"
+  },
+  {
+    "id": "tostadas-tinga",
+    "category": "cenas",
+    "name": "Tostadas horneadas de tinga",
+    "description": "Pollo deshebrado en salsa de tomate y chipotle, servido sobre tostadas de maíz horneadas.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Con pollo",
+      "Rápido"
+    ],
+    "highlights": "Pollo · tomate · chipotle · maíz",
+    "ingredients": [
+      "200 g de pollo ya cocido y deshebrado",
+      "4 tostadas de maíz horneadas",
+      "3 tomates medianos",
+      "½ cebolla",
+      "1 diente de ajo",
+      "½ chipotle adobado, o al gusto",
+      "1 cucharadita de aceite de oliva",
+      "1 taza de lechuga lavada y desinfectada",
+      "½ aguacate",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara la salsa",
+        "text": "Licúa los tomates con el ajo, el chipotle y ¼ de taza de agua. Corta la cebolla en láminas finas; empieza con poco chipotle si no te gusta el picante."
+      },
+      {
+        "title": "Cocina la tinga",
+        "text": "Calienta el aceite y cocina la cebolla 4 minutos. Añade la salsa y cocina a fuego medio de 7 a 8 minutos, hasta que espese ligeramente."
+      },
+      {
+        "title": "Incorpora el pollo",
+        "text": "Agrega el pollo cocido y una pizca de sal. Cocina 5 minutos removiendo, hasta que todo esté muy caliente; al recalentar pollo, comprueba 74 °C. La mezcla debe quedar jugosa, sin exceso de líquido."
+      },
+      {
+        "title": "Arma las tostadas",
+        "text": "Corta la lechuga en tiras y el aguacate en rebanadas. Reparte la tinga en las cuatro tostadas, agrega lechuga y aguacate y sirve dos por persona."
+      }
+    ],
+    "tip": "El tiempo supone pollo previamente cocido. Arma las tostadas al servir para que no se ablanden.",
+    "imageSubject": "Two baked corn tostadas topped with red tomato chipotle shredded chicken tinga, shredded lettuce and avocado slices, no cream or cheese"
+  },
+  {
+    "id": "wraps-lechuga-pollo",
+    "category": "cenas",
+    "name": "Wraps de lechuga con pollo y verduras",
+    "description": "Hojas crujientes de lechuga que envuelven pollo salteado, zanahoria y pimiento.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Con pollo",
+      "En sartén"
+    ],
+    "highlights": "Pollo · lechuga · zanahoria · pimiento",
+    "ingredients": [
+      "250 g de pechuga de pollo sin piel",
+      "6 hojas grandes de lechuga lavadas y desinfectadas",
+      "1 zanahoria pequeña",
+      "½ pimiento rojo",
+      "1 diente de ajo",
+      "1 cucharadita de jengibre rallado",
+      "2 cucharaditas de aceite de oliva",
+      "1 cucharada de salsa de soya reducida en sodio",
+      "1 cucharada de jugo de limón"
+    ],
+    "steps": [
+      {
+        "title": "Prepara las hojas",
+        "text": "Seca bien las hojas de lechuga y reserva enteras. Corta el pollo en cubos pequeños, el pimiento en tiras y la zanahoria en bastones finos."
+      },
+      {
+        "title": "Dora el pollo",
+        "text": "Calienta el aceite en una sartén a fuego medio alto. Cocina el pollo en una capa durante 6 a 8 minutos, moviendo para dorar los lados. Comprueba que alcance 74 °C en el centro."
+      },
+      {
+        "title": "Añade los vegetales",
+        "text": "Incorpora zanahoria y pimiento; cocina 4 minutos. Añade ajo picado y jengibre por 30 segundos. Agrega soya y limón, mezcla y retira del fuego."
+      },
+      {
+        "title": "Sirve en las hojas",
+        "text": "Deja que el relleno pierda un poco de calor para no marchitar la lechuga. Reparte en las seis hojas y sirve tres wraps por persona, para comer con las manos."
+      }
+    ],
+    "tip": "Usa hojas tipo romana o mantequilla que puedan doblarse sin romperse.",
+    "imageSubject": "Three crisp lettuce cups filled with small cooked chicken cubes, thin carrot and red bell pepper strips, ivory plate, no tortilla"
+  },
+  {
+    "id": "sopa-minestrone",
+    "category": "cenas",
+    "name": "Minestrone de verduras y alubias",
+    "description": "Una sopa de tomate con verduras, alubias y un poco de pasta integral.",
+    "minutes": 35,
+    "servings": 3,
+    "tags": [
+      "Vegetal",
+      "Una sola olla"
+    ],
+    "highlights": "Alubias · pasta integral · verduras · tomate",
+    "ingredients": [
+      "1 taza de alubias blancas cocidas",
+      "50 g de pasta integral corta",
+      "1 zanahoria",
+      "1 calabacita",
+      "1 tallo de apio",
+      "2 tomates maduros",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "4 tazas de agua",
+      "1 cucharadita de aceite de oliva",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta las verduras",
+        "text": "Lava las verduras. Corta zanahoria, calabacita y apio en cubos pequeños. Pica cebolla y ajo; ralla los tomates o licúalos."
+      },
+      {
+        "title": "Prepara el caldo",
+        "text": "Calienta el aceite y cocina cebolla, zanahoria y apio 5 minutos. Añade ajo durante 30 segundos, después tomate y orégano. Cocina 3 minutos y vierte el agua."
+      },
+      {
+        "title": "Añade la pasta",
+        "text": "Cuando hierva, agrega la pasta y cocina a fuego medio según el tiempo de su paquete. A mitad de cocción incorpora la calabacita y las alubias escurridas."
+      },
+      {
+        "title": "Ajusta y sirve",
+        "text": "Comprueba que la pasta y la zanahoria estén tiernas. Añade sal y pimienta y reparte en tres tazones. Si la sopa espesa, agrega un poco de agua caliente."
+      }
+    ],
+    "tip": "Si vas a guardar parte, cuece la pasta aparte y añádela al servir para que no absorba todo el caldo.",
+    "imageSubject": "A deep ivory bowl of red tomato minestrone with white beans, short whole wheat pasta, diced carrots, zucchini and celery, no cheese"
+  },
+  {
+    "id": "quesadillas-huitlacoche",
+    "category": "cenas",
+    "name": "Quesadillas de huitlacoche y epazote",
+    "description": "Huitlacoche salteado con cebolla y epazote dentro de tortillas de maíz.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "En comal"
+    ],
+    "highlights": "Huitlacoche · maíz · queso · epazote",
+    "ingredients": [
+      "4 tortillas de maíz",
+      "200 g de huitlacoche fresco limpio o en conserva escurrido",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "2 hojas de epazote lavadas",
+      "50 g de queso Oaxaca pasteurizado",
+      "1 cucharadita de aceite de oliva",
+      "Sal al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara el relleno",
+        "text": "Pica cebolla, ajo y epazote. Si usas huitlacoche de conserva, escúrrelo; si es fresco, revisa y retira restos de hojas y fibras."
+      },
+      {
+        "title": "Saltea el huitlacoche",
+        "text": "Calienta el aceite y cocina la cebolla 3 minutos a fuego medio. Añade ajo durante 30 segundos, luego huitlacoche y epazote. Cocina de 6 a 8 minutos, moviendo hasta que el líquido se evapore. Sazona."
+      },
+      {
+        "title": "Rellena las tortillas",
+        "text": "Calienta las tortillas en un comal para hacerlas flexibles. Reparte el huitlacoche y el queso en la mitad de cada tortilla y dóblala."
+      },
+      {
+        "title": "Dora y sirve",
+        "text": "Cocina a fuego medio bajo de 2 a 3 minutos por lado, hasta que el queso se derrita y los bordes se doren. Sirve dos quesadillas por persona."
+      }
+    ],
+    "tip": "El huitlacoche tiene un sabor propio; usa poco epazote para no ocultarlo.",
+    "imageSubject": "Folded corn quesadillas with dark black-gray huitlacoche filling and a little melted white cheese visible along the edges, ivory plate, no squash blossom"
+  },
+  {
+    "id": "pescado-papillote",
+    "category": "cenas",
+    "name": "Pescado en papillote con verduras",
+    "description": "Filetes de pescado blanco al horno en un paquete de papel que conserva sus jugos.",
+    "minutes": 30,
+    "servings": 2,
+    "tags": [
+      "Con pescado",
+      "Al horno"
+    ],
+    "highlights": "Pescado blanco · calabacita · zanahoria · limón",
+    "ingredients": [
+      "2 filetes de pescado blanco de 140 g cada uno",
+      "1 calabacita mediana",
+      "1 zanahoria pequeña",
+      "½ cebolla",
+      "1 limón",
+      "2 cucharaditas de aceite de oliva",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto",
+      "2 hojas grandes de papel para hornear"
+    ],
+    "steps": [
+      {
+        "title": "Corta muy fino",
+        "text": "Precalienta el horno a 200 °C. Lava las verduras. Corta calabacita y zanahoria en bastones muy finos y la cebolla en láminas para que se cocinen al mismo tiempo que el pescado."
+      },
+      {
+        "title": "Arma los paquetes",
+        "text": "Coloca la mitad de los vegetales en el centro de cada hoja de papel. Pon un filete encima, añade aceite, orégano, sal, pimienta y dos rebanadas finas de limón."
+      },
+      {
+        "title": "Sella y hornea",
+        "text": "Dobla el papel sobre los ingredientes y pliega varias veces los bordes para cerrarlo. Coloca los paquetes en una charola y hornea de 15 a 20 minutos, según el grosor del pescado."
+      },
+      {
+        "title": "Abre y comprueba",
+        "text": "Abre con cuidado para liberar el vapor lejos de la cara. Comprueba que el pescado alcance 63 °C en el centro. Si le falta cocción, cierra y hornea unos minutos más. Sirve un paquete por persona."
+      }
+    ],
+    "tip": "No uses papel encerado: el papel debe ser apto para horno.",
+    "imageSubject": "An opened parchment packet showing cooked white fish fillet over thin zucchini carrot and onion strips with lemon slices, on an ivory plate, no rice"
+  },
+  {
+    "id": "sopa-fideo-integral",
+    "category": "cenas",
+    "name": "Sopa de fideo integral con verduras",
+    "description": "Fideo en caldo casero de tomate, con zanahoria y calabacita en cubos.",
+    "minutes": 25,
+    "servings": 3,
+    "tags": [
+      "Vegetal",
+      "Una sola olla"
+    ],
+    "highlights": "Fideo integral · tomate · zanahoria · calabacita",
+    "ingredients": [
+      "75 g de fideo integral",
+      "3 tomates maduros",
+      "¼ de cebolla",
+      "1 diente de ajo",
+      "1 zanahoria pequeña",
+      "1 calabacita pequeña",
+      "4 tazas de agua",
+      "1 cucharadita de aceite de oliva",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Licúa el tomate",
+        "text": "Lava los tomates y licúalos con cebolla, ajo y una taza del agua. Corta la zanahoria y la calabacita en cubos pequeños."
+      },
+      {
+        "title": "Tuesta el fideo",
+        "text": "Calienta el aceite en una olla a fuego medio. Añade el fideo y mueve de 2 a 3 minutos, hasta que tome un color ligeramente dorado, sin quemarlo."
+      },
+      {
+        "title": "Forma el caldo",
+        "text": "Vierte con cuidado la mezcla de tomate; puede salpicar. Cocina 3 minutos y agrega el agua restante y la zanahoria. Lleva a hervor suave."
+      },
+      {
+        "title": "Termina la cocción",
+        "text": "Añade la calabacita después de 4 minutos y cocina hasta que el fideo y las verduras estén tiernos, guiándote por el tiempo del paquete. Ajusta sal y pimienta y sirve en tres tazones."
+      }
+    ],
+    "tip": "Los fideos absorben caldo al reposar; añade agua caliente al recalentar si la sopa está espesa.",
+    "imageSubject": "Mexican red tomato broth soup with thin short whole wheat vermicelli noodles, small carrot and zucchini cubes, ivory bowl, no beans"
+  },
+  {
+    "id": "portobellos-requeson",
+    "category": "cenas",
+    "name": "Portobellos rellenos de requesón",
+    "description": "Hongos grandes al horno con requesón, espinaca y tomate, fáciles de servir.",
+    "minutes": 30,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "Al horno"
+    ],
+    "highlights": "Portobello · requesón · espinaca · tomate",
+    "ingredients": [
+      "4 hongos portobello medianos",
+      "¾ de taza de requesón pasteurizado",
+      "1 taza de espinaca lavada y desinfectada",
+      "1 tomate pequeño",
+      "1 diente de ajo",
+      "1 cucharadita de aceite de oliva",
+      "½ cucharadita de orégano",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Prepara los hongos",
+        "text": "Precalienta el horno a 190 °C. Limpia los portobellos con un paño húmedo y retira los tallos. Pica los tallos para usarlos en el relleno."
+      },
+      {
+        "title": "Cocina las verduras",
+        "text": "Calienta el aceite, añade los tallos picados y cocina 3 minutos. Incorpora ajo picado, tomate en cubos y espinaca; cocina otros 3 minutos, hasta que se evapore el exceso de líquido."
+      },
+      {
+        "title": "Rellena",
+        "text": "Retira del fuego y mezcla con el requesón, el orégano, sal y pimienta. Pon los hongos en una charola, con la cavidad hacia arriba, y distribuye la mezcla dentro."
+      },
+      {
+        "title": "Hornea y sirve",
+        "text": "Hornea de 15 a 18 minutos, hasta que los hongos estén tiernos y el relleno caliente. Deja reposar 2 minutos y sirve dos portobellos por persona."
+      }
+    ],
+    "tip": "No laves los hongos dejándolos sumergidos; absorben agua y pueden soltar demasiado líquido.",
+    "imageSubject": "Two large roasted portobello caps filled with white ricotta-like requeson, spinach and diced tomato, ivory plate, no breadcrumbs"
+  },
+  {
+    "id": "calabacitas-mexicana",
+    "category": "cenas",
+    "name": "Calabacitas a la mexicana con panela",
+    "description": "Calabacita, tomate y elote salteados, terminados con cubos de queso panela.",
+    "minutes": 25,
+    "servings": 2,
+    "tags": [
+      "Vegetariano",
+      "En sartén"
+    ],
+    "highlights": "Calabacita · tomate · elote · panela",
+    "ingredients": [
+      "2 calabacitas medianas",
+      "2 tomates medianos",
+      "¼ de cebolla",
+      "½ taza de granos de elote cocidos",
+      "80 g de queso panela pasteurizado",
+      "1 cucharadita de aceite de oliva",
+      "2 tortillas de maíz",
+      "Sal y pimienta al gusto"
+    ],
+    "steps": [
+      {
+        "title": "Corta los ingredientes",
+        "text": "Lava calabacitas y tomates y córtalos en cubos de 1 cm. Pica la cebolla y corta el queso panela en cubos pequeños."
+      },
+      {
+        "title": "Prepara el sofrito",
+        "text": "Calienta el aceite en una sartén amplia a fuego medio. Cocina la cebolla 3 minutos, añade el tomate y cocina otros 4 minutos para que forme una salsa ligera."
+      },
+      {
+        "title": "Añade calabacita y elote",
+        "text": "Incorpora la calabacita y el elote. Tapa y cocina de 6 a 8 minutos, moviendo una vez, hasta que la calabacita esté tierna sin deshacerse. Sazona con sal y pimienta."
+      },
+      {
+        "title": "Termina con panela",
+        "text": "Destapa, añade el queso y calienta 1 minuto. Reparte en dos platos y acompaña cada uno con una tortilla caliente. Si hay mucho líquido, evapóralo antes de añadir el queso."
+      }
+    ],
+    "tip": "Corta la calabacita del mismo tamaño para que toda se cocine parejo.",
+    "imageSubject": "Diced sautéed zucchini with red tomato, yellow corn kernels and small white panela cheese cubes, ivory shallow bowl with a corn tortilla beside it"
+  }
+]

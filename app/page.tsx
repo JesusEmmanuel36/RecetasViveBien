@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import { ArrowDown, ArrowUpRight, Bookmark, Check, ChevronRight, Clock3, CookingPot, Leaf, Lightbulb, Moon, Search, SlidersHorizontal, Sprout, Sun, Users, Wheat, X } from 'lucide-react';
+import { ArrowUpRight, Bookmark, Check, ChevronRight, Clock3, CookingPot, Leaf, Lightbulb, Moon, Search, SlidersHorizontal, Sprout, Sun, Users, X } from 'lucide-react';
 import { categories, recipes, type Category, type Recipe } from '@/lib/recipes';
 
 const icons = { snacks: Sprout, desayunos: Sun, comidas: CookingPot, cenas: Moon };
@@ -49,22 +49,8 @@ export default function Home() {
       </header>
 
       <main className="shell">
-        <section className="hero" aria-labelledby="hero-title">
-          <div className="hero-copy">
-            <div className="eyebrow"><span className="tiny-dot" /> BUENA COMIDA, TODOS LOS DÍAS</div>
-            <h1 id="hero-title">Comer bien.<br /><span>Sentirte mejor.</span></h1>
-            <p>Recetas sencillas, ingredientes de verdad y un poquito de inspiración para cuidar de ti.</p>
-            <a className="hero-link" href="#recetas">Encuentra tu próxima receta <ArrowDown size={17} /></a>
-          </div>
-          <aside className="hero-note">
-            <div className="note-top"><Leaf size={23} strokeWidth={1.4} /><span>LA FILOSOFÍA SAVIA</span></div>
-            <p>Lo cotidiano<br />{' '}también puede<br />{' '}ser <em>extraordinario.</em></p>
-            <div className="note-bottom"><span>Menos complicaciones.<br />{' '}Más sabor en tu mesa.</span><span className="note-symbol"><Wheat size={33} strokeWidth={1.2} /></span></div>
-          </aside>
-        </section>
-
         <section id="recetas" className="recipe-collection" aria-label="Recetario">
-          <div className="collection-top"><div><span className="eyebrow muted">TU DOSIS DE INSPIRACIÓN</span><h2>¿Qué se te antoja hoy?</h2></div><span className="recipe-total">4 recetas para empezar <span>↗</span></span></div>
+          <div className="collection-top"><div><span className="eyebrow muted">TU DOSIS DE INSPIRACIÓN</span><h1>¿Qué se te antoja hoy?</h1></div><span className="recipe-total">4 recetas para empezar <span>↗</span></span></div>
           <div className="filter-bar">
             <nav className="category-tabs" aria-label="Filtrar por categoría">
               <button aria-pressed={filter === 'all'} className={filter === 'all' ? 'selected' : ''} onClick={() => setFilter('all')}><SlidersHorizontal size={16} />Todas</button>

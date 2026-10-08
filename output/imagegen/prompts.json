@@ -1,0 +1,29 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "id": "hummus-limon",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual food photograph for a healthy recipe website card. Primary request: Hummus de limón con crudités: a small ivory ceramic bowl of creamy chickpea hummus, accompanied by neat carrot sticks, cucumber sticks and red pepper strips. A small lemon wedge. No crackers. Style: realistic appetizing editorial food photography, natural daylight, subtle authentic food textures. Composition: landscape 3:2, slightly overhead 45-degree view, centered dish fully in frame, generous crop safety. Background: clean warm white tabletop with a small sage green linen detail. Palette: white, sage, cream and natural food colors, understated. No people, hands, text, branding, watermark, collages or multiple panels. Generate ONE image of this single recipe.",
+      "original": "output/imagegen/hummus-limon.png",
+      "web": "public/images/recipes/hummus-limon.webp"
+    },
+    {
+      "id": "avena-manzana",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual food photograph for a healthy recipe website card. Primary request: Avena cremosa con manzana y canela: an ivory ceramic bowl of creamy cooked oatmeal topped with small apple cubes, chopped walnuts, chia seeds and a light dusting of cinnamon. Style: realistic appetizing editorial food photography, natural daylight, subtle authentic food textures. Composition: landscape 3:2, slightly overhead 45-degree view, centered dish fully in frame, generous crop safety. Background: clean warm white tabletop with a small sage green linen detail. Palette: white, sage, cream and natural food colors, understated. No people, hands, text, branding, watermark, collages or multiple panels. Generate ONE image of this single recipe.",
+      "original": "output/imagegen/avena-manzana.png",
+      "web": "public/images/recipes/avena-manzana.webp"
+    },
+    {
+      "id": "bowl-quinoa",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual food photograph for a healthy recipe website card. Primary request: Bowl de quinoa, garbanzos y aguacate: an ivory ceramic bowl with cooked quinoa, whole chickpeas, halved cherry tomatoes, diced cucumber, fresh spinach and sliced avocado, lightly dressed with lemon and olive oil. No meat. Style: realistic appetizing editorial food photography, natural daylight, subtle authentic food textures. Composition: landscape 3:2, slightly overhead 45-degree view, centered dish fully in frame, generous crop safety. Background: clean warm white tabletop with a small sage green linen detail. Palette: white, sage, cream and natural food colors, understated. No people, hands, text, branding, watermark, collages or multiple panels. Generate ONE image of this single recipe.",
+      "original": "output/imagegen/bowl-quinoa.png",
+      "web": "public/images/recipes/bowl-quinoa.webp"
+    },
+    {
+      "id": "tacos-champinones",
+      "prompt": "Use case: photorealistic-natural. Asset type: individual food photograph for a healthy recipe website card. Primary request: Tacos de champiñones y frijoles: four small soft corn tortillas filled with golden sautéed sliced mushrooms and black beans, topped with avocado slices and fresh cilantro, served on an ivory ceramic plate with a lime wedge. No meat, no cheese. Style: realistic appetizing editorial food photography, natural daylight, subtle authentic food textures. Composition: landscape 3:2, slightly overhead 45-degree view, centered dish fully in frame, generous crop safety. Background: clean warm white tabletop with a small sage green linen detail. Palette: white, sage, cream and natural food colors, understated. No people, hands, text, branding, watermark, collages or multiple panels. Generate ONE image of this single recipe.",
+      "original": "output/imagegen/tacos-champinones.png",
+      "web": "public/images/recipes/tacos-champinones.webp"
+    }
+  ]
+}

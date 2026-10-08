@@ -1,5 +1,6 @@
 'use client';
 
+import Image from 'next/image';
 import { useEffect, useRef, useState } from 'react';
 import { ArrowUpRight, Bookmark, ChevronRight, Clock3, CookingPot, Leaf, Lightbulb, Moon, Search, SlidersHorizontal, Sprout, Sun, Users, X } from 'lucide-react';
 import { categories, recipes, type Category, type Recipe } from '@/lib/recipes';
@@ -66,6 +67,7 @@ export default function Home() {
               return <section className={`category-section ${category.id}`} key={category.id} aria-labelledby={`heading-${category.id}`}>
                 <div className="section-heading"><div className="flex items-center gap-3"><span className="category-icon"><Icon size={20} strokeWidth={1.7} /></span><div><h3 id={`heading-${category.id}`}>{category.name}</h3><p>{category.subtitle}</p></div></div><span className="section-number">01</span></div>
                 {matching.map(recipe => <article key={recipe.id} className="recipe-card">
+                  <button className="recipe-photo-button" onClick={() => openRecipe(recipe)} aria-label={`Ver receta: ${recipe.name}`}><Image className="recipe-photo" src={`/images/recipes/${recipe.id}.webp`} alt={recipe.name} width={1200} height={800} sizes="(max-width: 640px) 100vw, 50vw" unoptimized /></button>
                   <div className="card-top"><span className="recipe-label"><span />{recipe.category === 'snacks' ? 'PARA ESE ANTOJO' : recipe.category === 'desayunos' ? 'UN BUEN COMIENZO' : recipe.category === 'comidas' ? 'A LA HORA DE COMER' : 'EL ÚLTIMO BOCADO'}</span><button className={`bookmark ${saved.includes(recipe.id) ? 'is-saved' : ''}`} aria-label={`${saved.includes(recipe.id) ? 'Quitar de' : 'Guardar en'} mis recetas: ${recipe.name}`} aria-pressed={saved.includes(recipe.id)} onClick={() => toggleSaved(recipe.id)}><Bookmark size={19} strokeWidth={1.6} fill={saved.includes(recipe.id) ? 'currentColor' : 'none'} /></button></div>
                   <button className="title-button" onClick={() => openRecipe(recipe)}><h4>{recipe.name}</h4></button>
                   <p className="card-description">{recipe.description}</p>

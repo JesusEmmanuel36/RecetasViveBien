@@ -168,3 +168,7 @@ button, input { outline-offset: 5px; }
   .dialog-save { min-height: 44px; }
   .ingredient-preview p { line-height: 1.75; }
 }
+
+.recipe-photo-button { display: block; width: 100%; border: 0; padding: 0; background: #f3f6ef; border-radius: 7px; overflow: hidden; margin-bottom: 20px; }
+.recipe-photo { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
+.recipe-photo-button:hover .recipe-photo { filter: brightness(1.03); }

@@ -15,11 +15,11 @@ async function main() {
   const context = { exports: {}, require: createRequire(file) };
   vm.runInNewContext(code, context);
   const recipes = context.exports.recipes;
-  assert.equal(recipes.length, 50, 'The catalog must have exactly 50 recipes.');
+  assert.equal(recipes.length, 100, 'The catalog must have exactly 100 recipes.');
   const normalize = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
-  assert.equal(new Set(recipes.map(r => r.id)).size, 50, 'Duplicate recipe ids.');
-  assert.equal(new Set(recipes.map(r => normalize(r.name))).size, 50, 'Duplicate recipe names.');
-  const counts = { snacks: 12, desayunos: 13, comidas: 13, cenas: 12 };
+  assert.equal(new Set(recipes.map(r => r.id)).size, 100, 'Duplicate recipe ids.');
+  assert.equal(new Set(recipes.map(r => normalize(r.name))).size, 100, 'Duplicate recipe names.');
+  const counts = { snacks: 25, desayunos: 25, comidas: 25, cenas: 25 };
   const hashes = new Set();
   for (const [category, count] of Object.entries(counts)) {
     assert.equal(recipes.filter(r => r.category === category).length, count, category);
@@ -41,6 +41,6 @@ async function main() {
     assert.equal(metadata.height, 800, recipe.id);
     assert(bytes.length < 400000, `Image too large: ${recipe.id}`);
   }
-  console.log('PASS: 50 unique recipes, category distribution, ingredients and steps, 50 distinct 1200×800 WebP images.');
+  console.log('PASS: 100 unique recipes, category distribution, ingredients and steps, 100 distinct 1200×800 WebP images.');
 }
 main().catch(error => { console.error(error.message); process.exit(1); });

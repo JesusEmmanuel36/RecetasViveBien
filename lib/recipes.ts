@@ -1,4 +1,5 @@
 import additionalRecipes from './additional-recipes.json';
+import moreRecipes from './more-recipes.json';
 export type Category = 'snacks' | 'desayunos' | 'comidas' | 'cenas';
 export type Recipe = {
   id: string; category: Category; name: string; description: string;
@@ -62,4 +63,4 @@ const initialRecipes: Recipe[] = [
   },
 ];
 
-export const recipes: Recipe[] = [...initialRecipes, ...(additionalRecipes as Recipe[])];
+export const recipes: Recipe[] = [...initialRecipes, ...(additionalRecipes as Recipe[]), ...(moreRecipes as Recipe[])];

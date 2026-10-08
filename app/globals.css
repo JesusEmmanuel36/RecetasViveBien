@@ -172,3 +172,8 @@ button, input { outline-offset: 5px; }
 .recipe-photo-button { display: block; width: 100%; border: 0; padding: 0; background: #f3f6ef; border-radius: 7px; overflow: hidden; margin-bottom: 20px; }
 .recipe-photo { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
 .recipe-photo-button:hover .recipe-photo { filter: brightness(1.03); }
+
+.site-logo { display: block; width: 180px; height: auto; }
+.footer-logo { display: block; width: 135px; height: auto; }
+@media (max-width: 640px) { .site-logo { width: 145px; } .footer-logo { width: 125px; } }
+@media (max-width: 360px) { .site-logo { width: 125px; } }

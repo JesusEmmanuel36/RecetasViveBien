@@ -42,7 +42,7 @@ export default function Home() {
     <>
       <header className="site-header">
         <div className="shell header-inner">
-          <a className="wordmark" href="#" aria-label="Savia, inicio"><span className="brand-icon"><Sprout size={25} strokeWidth={1.7} /></span>savia<span className="brand-dot">.</span></a>
+          <a className="wordmark" href="#" aria-label="Recetas Vive Bien, inicio"><Image className="site-logo" src="/images/logo.png" alt="Recetas Vive Bien" width={2172} height={724} unoptimized priority /></a>
           <nav className="header-nav" aria-label="Navegación principal"><a href="#recetas">El recetario</a><span>Simple. Rico. Natural.</span></nav>
           <button className={`saved-button ${savedOnly ? 'active' : ''}`} aria-pressed={savedOnly} onClick={() => { setSavedOnly(!savedOnly); document.getElementById('recetas')?.scrollIntoView({ behavior: 'smooth' }); }}><Bookmark size={17} fill={savedOnly ? 'currentColor' : 'none'} /><span>Mis recetas</span><span className="saved-count">{saved.length}</span></button>
         </div>
@@ -82,13 +82,13 @@ export default function Home() {
           <div className="closing-note"><span className="closing-icon"><Sprout size={25} strokeWidth={1.5} /></span><div><h3>Pequeños cambios. Grandes comienzos.</h3><p>Una receta a la vez, encuentra tu forma de comer mejor.</p></div><span className="closing-detail">HECHO CON CALMA Y CARIÑO</span></div>
         </section>
       </main>
-      <footer className="shell site-footer"><a className="footer-brand" href="#">savia.</a><span>Comer bien, vivir bonito.</span><span>Tu recetario de todos los días <Leaf size={14} /></span></footer>
+      <footer className="shell site-footer"><a className="footer-brand" href="#" aria-label="Recetas Vive Bien, inicio"><Image className="footer-logo" src="/images/logo.png" alt="Recetas Vive Bien" width={2172} height={724} unoptimized /></a><span>Comer bien, vivir bonito.</span><span>Tu recetario de todos los días <Leaf size={14} /></span></footer>
 
       <dialog ref={dialog} className="recipe-dialog" onCancel={() => setSelected(null)} onClose={() => setSelected(null)} onClick={event => { if (event.target === event.currentTarget) setSelected(null); }}>
         {selected && <div className={`dialog-content ${selected.category}`}>
-          <div className="dialog-toolbar"><span><Sprout size={18} /> EL RECETARIO SAVIA</span><button className="close-button" aria-label="Cerrar receta" onClick={() => setSelected(null)}><X size={21} /></button></div>
+          <div className="dialog-toolbar"><span><Sprout size={18} /> RECETAS VIVE BIEN</span><button className="close-button" aria-label="Cerrar receta" onClick={() => setSelected(null)}><X size={21} /></button></div>
           <div className="dialog-heading"><span className="recipe-label">{categories.find(category => category.id === selected.category)?.name}</span><h2>{selected.name}</h2><p>{selected.description}</p><div className="dialog-meta"><div className="recipe-meta"><span><Clock3 size={16} />{selected.minutes} min</span><span><Users size={16} />{selected.servings} {selected.servings === 1 ? 'porción' : 'porciones'}</span></div><button className="dialog-save" aria-pressed={saved.includes(selected.id)} onClick={() => toggleSaved(selected.id)}><Bookmark size={16} fill={saved.includes(selected.id) ? 'currentColor' : 'none'} />{saved.includes(selected.id) ? 'Guardada' : 'Guardar receta'}</button></div></div>
-          <div className="recipe-details"><section className="ingredients"><div className="detail-title"><h3>Ingredientes</h3><span>{selected.ingredients.length}</span></div><ul>{selected.ingredients.map(ingredient => <li key={ingredient}>{ingredient}</li>)}</ul></section><section className="preparation"><h3>Manos a la cocina</h3><ol>{selected.steps.map((step, index) => <li key={step.title}><span className="step-number">{String(index + 1).padStart(2, '0')}</span><div><h4>{step.title}</h4><p>{step.text}</p></div></li>)}</ol><aside className="cooking-tip"><Lightbulb size={20} /><div><h4>Un consejo de Savia</h4><p>{selected.tip}</p></div></aside></section></div>
+          <div className="recipe-details"><section className="ingredients"><div className="detail-title"><h3>Ingredientes</h3><span>{selected.ingredients.length}</span></div><ul>{selected.ingredients.map(ingredient => <li key={ingredient}>{ingredient}</li>)}</ul></section><section className="preparation"><h3>Manos a la cocina</h3><ol>{selected.steps.map((step, index) => <li key={step.title}><span className="step-number">{String(index + 1).padStart(2, '0')}</span><div><h4>{step.title}</h4><p>{step.text}</p></div></li>)}</ol><aside className="cooking-tip"><Lightbulb size={20} /><div><h4>Un consejo para tu receta</h4><p>{selected.tip}</p></div></aside></section></div>
           <div className="dialog-bottom"><span>Disfruta el proceso y cada bocado.</span><button onClick={() => setSelected(null)}>Volver al recetario <ChevronRight size={16} /></button></div>
         </div>}
       </dialog>
